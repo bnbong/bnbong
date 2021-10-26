@@ -12,12 +12,23 @@
  
 ## 💻 My Stacks
   
+  - Language & Frameworks
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
+</div>
 
+  - Databases & Devops
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-f5f5dc?style=flat-square&logo=MongoDB&logoColor=green"/>
+  <img src="https://img.shields.io/badge/MySQL-f5f5dc?style=flat-square&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-f5f5dc?style=flat-square&logo=PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Github-092E20?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
+ 
 ## 👀 I’m interested in ...
 
  - Python Django 프레임워크 등을 이용한 웹 백앤드 개발
