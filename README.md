@@ -8,7 +8,7 @@
 
  - 한양대학교 ERICA 소프트웨어학부 19학번 (2019.03.02 ~ )
  - 대한민국 공군 ROKAF 병 825기 정보체계관리(30010 과정) (2021.04.12 ~ 2023.01.11)
- - GiftMusic(현 Mugip) backend 개발자 (2020.09 ~ 2021.04)
+ - GiftMusic backend 개발자 (2020.09 ~ 2021.04)
  
 ## 💻 My Stacks
   
@@ -16,8 +16,9 @@
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=flat-square&logo=Android%20Studio"/>
 </div>
 
   - Databases & Devops
