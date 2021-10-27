@@ -41,6 +41,7 @@
 ## 🌱 I’m currently learning ...
 
  - GoLang
+ - JavaScript, Html
  - Django & MongoDB를 활용한 사이트 개발
  - Algorithms (implemented with Python)
 
