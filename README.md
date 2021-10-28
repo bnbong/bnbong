@@ -1,4 +1,7 @@
-# Jun Hyeok Lee
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JunHyeok%20Lee&fontSize=90&animation=fadeIn)
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnbong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -19,12 +22,13 @@
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=flat-square&logo=Android%20Studio"/>
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 </div>
 
   - Databases & Devops
 <div>
   <img src="https://img.shields.io/badge/MongoDB-f5f5dc?style=flat-square&logo=MongoDB&logoColor=green"/>
-  <img src="https://img.shields.io/badge/MySQL-f5f5dc?style=flat-square&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-f5f5dc?style=flat-square&logo=PostgreSQL"/>
   <img src="https://img.shields.io/badge/Github-092E20?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -58,7 +62,10 @@
  > (NAVER) - bnbong@naver.com
  
  - Direct Message ME : 
- > (Instagram) - [My Profile](https://www.instagram.com/j_hyeok__lee/?hl=ko)
+ > <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
 
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
