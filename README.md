@@ -4,8 +4,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnbong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![My trophy](https://github-profile-trophy.vercel.app/?username=bnbong)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong)
 
 ## 👋 Hello world!
 
@@ -67,6 +70,7 @@
 <div>
    <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/></a>&nbsp
    <a href="https://www.facebook.com/profile.php?id=100007712465866"><img src="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007712465866"/></a>&nbsp
+   <a href="https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%9D%B4-669733231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
 </div>
 <br>
 
