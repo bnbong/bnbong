@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
