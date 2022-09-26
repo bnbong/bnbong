@@ -16,7 +16,7 @@
 
 ## 🧑🏻‍💻 My Projects
 
-- [Follow Link](https://github.com/bnbong/bnbong.github.io)
+- [Github Links](https://github.com/bnbong/bnbong.github.io)
 
 ## 💻 My Stacks
 
