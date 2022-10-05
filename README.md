@@ -67,7 +67,7 @@
 
 ## 👀 I’m interested in ...
 
-- Python Django, Flask, FastAPI 프레임워크 등을 이용한 웹 백앤드 개발
+- Python 프레임워크(Django, Flask, FastAPI등)을 이용한 웹 백앤드 개발
 - React, Vue.js 등을 이용한 웹 프론트앤드 개발
 - 음악과 관련된 웹 또는 앱 개발
 - 게임 개발
