@@ -86,6 +86,10 @@
 - 컨텐츠 기획에 관심이 있으신 분
 - 게임 프로그래머 이시거나 게임 프로그래밍 혹은 게임 기획을 해보신 분
 
+## 😃 I wanna be a developer like..
+
+-
+
 ## 📫 How to reach me ...
 
 - MY WEBSITE :
