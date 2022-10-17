@@ -89,6 +89,7 @@
 ## 😃 I wanna be a developer like..
 
 - 삶을 조금 더 윤택하게 만드는 제품을 만드는 개발자
+- 꾸준히 팀원과 소통하며 원활한 협업을 도모하는 개발자
 - 
 
 ## 📫 How to reach me ...
