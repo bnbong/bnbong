@@ -76,7 +76,7 @@
 ## 🌱 I’m currently learning ...
 
 - Devops 툴 등을 이용한 CI/CD 및 프로젝트 매니징
-- Python Frameworks & Relational Database를 활용한 사이트 혹은 백앤드 서버 개발
+- Python Frameworks & Database를 활용한 사이트 혹은 백앤드 서버 개발
 - 백앤드 서버 구축 및 서버 유지보수
 - Algorithms (Implemented with Python)
 
