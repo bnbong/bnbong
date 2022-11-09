@@ -4,9 +4,12 @@
 
 ![My trophy](https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest&theme=onedark&no-frame=true)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong&hide=css&layout=compact&theme=onedark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=onedark" />
+</a>
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong&hide=css,html&langs_count=4&theme=onedark)
 
 ## 👋 Hello world!
 
