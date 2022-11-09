@@ -36,7 +36,7 @@
 
 ## 💻 My Stacks
 
-- Languages & Frameworks
+### Languages & Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=flat-square&logo=Android%20Studio"/>
 </div>
 
-- Databases & Devops
+### Databases & Devops
 
 <div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white"/>
 </div>
 
-- IDE
+### IDE
 
 <div>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
@@ -111,7 +111,7 @@
 
 ## 📫 How to reach me ...
 
-- MY WEBSITE :
+### MY WEBSITE :
 
 <div>
   <a href="https://github.com/bnbong/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"/></a>&nbsp
@@ -120,14 +120,14 @@
 
 </div>
 
-- EMAIL ME :
+### EMAIL ME :
 
 <div>
    <a href="mailto:bbbong9@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bbbong9@gmail.com"/></a>&nbsp
    <a href="mailto:bnbong@naver.com"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat-square&logo=Naver&logoColor=white&link=bnbong@naver.com"/></a>&nbsp
 </div>
 
-- Direct Message ME :
+### Direct Message ME :
 
 <div>
    <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/></a>&nbsp
