@@ -2,11 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnbong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![My trophy](https://github-profile-trophy.vercel.app/?username=bnbong)
+![My trophy](https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest&theme=onedark&no-frame=true)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong&hide=css&layout=compact&theme=onedark)
 
 ## 👋 Hello world!
 
@@ -16,7 +16,20 @@
 
 ## 🧑🏻‍💻 My Projects
 
-- [Projects' Github Links](https://github.com/bnbong/bnbong.github.io)
+### Individual Projects
+   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=KakaoTalk-channel-WeatherToday&theme=tokyonight)](https://github.com/bnbong/KakaoTalk-channel-WeatherToday)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_backend&theme=tokyonight)](https://github.com/bnbong/Myblog_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_frontend&theme=tokyonight)](https://github.com/bnbong/Myblog_frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_posts&theme=tokyonight)](https://github.com/bnbong/Myblog_posts)
+
+
+
+### Team Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=record-music-backend&theme=tokyonight&show_owner=true)](https://github.com/bnbong/record-music-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Awesome_ChattingApp&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Awesome_ChattingApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=SETB-BestPractice&theme=tokyonight&show_owner=true)](https://github.com/bnbong/SETB-BestPractice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=ERICA_FoodDecisionMaker&theme=tokyonight&show_owner=true)](https://github.com/bnbong/ERICA_FoodDecisionMaker)
 
 ## 💻 My Stacks
 
