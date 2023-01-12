@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bnbong&count_private=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bnbong&count_private=true&theme=onedark" />
 </a>
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bnbong&hide=css,html&langs_count=4&theme=onedark)
+![Most Used Language](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bnbong&hide=css,html&langs_count=4&theme=onedark)
 
 ## 👋 Hello world!
 
@@ -21,18 +21,18 @@
 
 ### Individual Projects
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=KakaoTalk-channel-WeatherToday&theme=tokyonight)](https://github.com/bnbong/KakaoTalk-channel-WeatherToday)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_backend&theme=tokyonight)](https://github.com/bnbong/Myblog_backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_frontend&theme=tokyonight)](https://github.com/bnbong/Myblog_frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Myblog_posts&theme=tokyonight)](https://github.com/bnbong/Myblog_posts)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=KakaoTalk-channel-WeatherToday&theme=tokyonight)](https://github.com/bnbong/KakaoTalk-channel-WeatherToday)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_backend&theme=tokyonight)](https://github.com/bnbong/Myblog_backend)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_frontend&theme=tokyonight)](https://github.com/bnbong/Myblog_frontend)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_posts&theme=tokyonight)](https://github.com/bnbong/Myblog_posts)
 
 
 
 ### Team Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=record-music-backend&theme=tokyonight&show_owner=true)](https://github.com/bnbong/record-music-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=Awesome_ChattingApp&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Awesome_ChattingApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=SETB-BestPractice&theme=tokyonight&show_owner=true)](https://github.com/bnbong/SETB-BestPractice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bnbong&repo=ERICA_FoodDecisionMaker&theme=tokyonight&show_owner=true)](https://github.com/bnbong/ERICA_FoodDecisionMaker)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=record-music-backend&theme=tokyonight&show_owner=true)](https://github.com/bnbong/record-music-backend)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Awesome_ChattingApp&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Awesome_ChattingApp)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=SETB-BestPractice&theme=tokyonight&show_owner=true)](https://github.com/bnbong/SETB-BestPractice)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=ERICA_FoodDecisionMaker&theme=tokyonight&show_owner=true)](https://github.com/bnbong/ERICA_FoodDecisionMaker)
 
 ## 💻 My Stacks
 
