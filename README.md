@@ -47,12 +47,10 @@
   <img src="https://img.shields.io/badge/FastAPI-109989?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="	https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=flat-square&logo=Android%20Studio"/>
+  <img src="https://img.shields.io/badge/Go-29BEB0?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-FFFFFF?style=flat-square&logo=Dart&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=flat-square&logo=Flutter&logoColor=blue"/>
 </div>
 
 ### Databases & Devops
@@ -74,11 +72,22 @@
 <div>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
-  <img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-sqaure&logo=RStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=flat-square&logo=Android%20Studio"/>
+</div>
+
+### OTHER TOOLS
+
+<div>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
 ## 👀 I’m interested in ...
