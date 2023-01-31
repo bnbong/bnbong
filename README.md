@@ -13,9 +13,9 @@
 
 ## 👋 Hello world!
 
-- 한양대학교 ERICA 소프트웨어학부 소프트웨어학과 19학번 (2019.03.02 ~ )
-- 대한민국 공군 ROKAF 병 825기 정보체계관리(30010 과정) (2021.04.12 ~ 2023.01.11)
-- GiftMusic backend 개발자 (2020.09 ~ 2021.04)
+- Software, Department of Software, Hanyang Univ. ERICA, Class of 19 (2019.03.02 ~ )
+- Information System Management of ROKAF Unit 825, Process 30010 (대한민국 공군 825기 정보체계관리특기병 병장 만기전역) (2021.04.12 ~ 2023.01.11)
+- GiftMusic backend developer (2020.09 ~ 2021.04 & 2023.02 ~)
 
 ## 🧑🏻‍💻 My Projects
 
@@ -83,31 +83,32 @@
 
 ## 👀 I’m interested in ...
 
-- Python 프레임워크(Django, Flask, FastAPI 등)을 이용한 웹 백앤드 개발
-- React, Vue.js 등을 이용한 웹 프론트앤드 개발
-- 음악과 관련된 웹 또는 앱 개발
-- 게임 개발
-- 딥러닝 등의 AI 관련 기술
+- Development of web back-end using Python frameworks (Django, Flask, Fast API, etc.)
+- Web App, IOS, and Android App Development Using Dart and Flutter
+- Development of music-related technology services
+- Development of Game
+- New AI technologies such as chat GPT
 
 ## 🌱 I’m currently learning ...
 
-- Devops 툴 등을 이용한 CI/CD 및 프로젝트 매니징
-- Python Frameworks & Database를 활용한 사이트 혹은 백앤드 서버 개발
-- 백앤드 서버 구축 및 서버 유지보수
+- CI/CD and project management using Devops tools, etc.
+- Site or back-end server development using Python Framework & Database and Flutter
+- Back-and-server deployment and server maintenance
 - Algorithms (Implemented with Python)
 
 ## 💞️ I’m looking to collaborate on ...
 
-- 웹 백앤드 및 프론트앤드 개발 능력이 있으신 분
-- 컨텐츠 기획에 관심이 있으신 분
-- 게임 프로그래머 이시거나 게임 프로그래밍 혹은 게임 기획을 해보신 분
+- People with back-end and front-end development capabilities
+- People who is interested in content planning
+- A game programmer or people who has planned a game
 
 ## 😃 I wanna be a developer like ...
 
-- 삶을 조금 더 윤택하게 만드는 제품을 만드는 개발자
-- 꾸준히 팀원과 소통하며 원활한 협업을 도모하는 개발자
-- 작은 일에도 꾸준히 왜? 라는 궁금증을 가지며 스스로 궁금증을 해결해나가는 습관을 가진 개발자
-- 점진적인 발전을 추구하는 개발자
+- Developers who create products that make our lives more prosperous
+- Developers who consistently communicate with team members and facilitate collaboration
+- Developer who has a habit of constantly being curious about small things and solving them on his own
+- Developers seeking progressive growth
+
 
 ## 📫 How to reach me ...
 
