@@ -29,10 +29,10 @@
 
 
 ### Team Projects
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Project-Pinned&theme=tokyonight&show_owner=true)](https://github.com/bnbong/ERICA_FoodDecisionMaker)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=record-music-backend&theme=tokyonight&show_owner=true)](https://github.com/bnbong/record-music-backend)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Awesome_ChattingApp&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Awesome_ChattingApp)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=SETB-BestPractice&theme=tokyonight&show_owner=true)](https://github.com/bnbong/SETB-BestPractice)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=ERICA_FoodDecisionMaker&theme=tokyonight&show_owner=true)](https://github.com/bnbong/ERICA_FoodDecisionMaker)
 
 ## 💻 My Stacks
 
