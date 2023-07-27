@@ -126,7 +126,7 @@
 <div>
   <a href="https://github.com/bnbong/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"/></a>&nbsp
   <a href="https://bnbongdevstory.tistory.com/"><img src="https://img.shields.io/badge/my tistory-000000?style=flat-square&logo=About.me&logoColor=white"/></a>&nbsp
-  <a href="https://bnbong.pythonanywhere.com/"><img src="https://img.shields.io/badge/my blog-000000?style=flat-square&logo=About.me&logoColor=white"/></a>&nbsp
+  <a href="https://blog.naver.com/bnbong"><img src="https://img.shields.io/badge/my blog-000000?style=flat-square&logo=About.me&logoColor=white"/></a>&nbsp
 
 </div>
 
