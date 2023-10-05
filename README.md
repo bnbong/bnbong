@@ -23,8 +23,8 @@
    
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=KakaoTalk-channel-WeatherToday&theme=tokyonight)](https://github.com/bnbong/KakaoTalk-channel-WeatherToday)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_backend&theme=tokyonight)](https://github.com/bnbong/Myblog_backend)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_frontend&theme=tokyonight)](https://github.com/bnbong/Myblog_frontend)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_posts&theme=tokyonight)](https://github.com/bnbong/Myblog_posts)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=TooKindFriendChat&theme=tokyonight)](https://github.com/bnbong/TooKindFriendChat.git)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=FribyRunner&theme=tokyonight)](https://github.com/bnbong/FribyRunner.git)
 
 
 
