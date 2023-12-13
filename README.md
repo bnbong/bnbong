@@ -124,7 +124,7 @@
 
 - GiftMusic backend developer (2020.09 ~ 2021.04 & 2023.02 ~ )
 - ERICA 창업팀 backend developer (2023.10 ~ )
-- Developing Jaram Groupware's Attendance & Penalty Service
+- 전공 학회 'Jaram' 출결, 패널티 서비스 개발 및 학회 Groupware 서비스 전반 개발 및 유지보수
 
 ### Awards
 
