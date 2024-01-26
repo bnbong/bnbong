@@ -95,13 +95,13 @@
 
 <!-- Github Trophy -->
 <p align="center">
-  <a>
+  <div style="text-align:center;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&no-frame=true">
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=5&no-bg=true" alt="GitHub Profile Trophies">
+  </div>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bnbong&count_private=true&theme=onedark" /> | <img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bnbong&hide=css,html,javascript&langs_count=4&theme=onedark"/> | <a href="https://solved.ac/profile/bnbong"><img align="center" width="100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bnbong"/>|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bnbong&count_private=true&theme=onedark" alt="GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bnbong&hide=css,html,javascript&langs_count=4&theme=onedark" alt="Top Languages" /> | <a href="https://solved.ac/profile/bnbong"><img align="center" width="100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bnbong" alt="Solved.ac Profile" />|
 | ------------- | ------------- | ------------- |
 
 
