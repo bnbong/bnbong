@@ -1,17 +1,9 @@
 <!-- Header Content -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=35&desc=bnbong's%20github&descSize=20&animation=fadeIn)
 
-<!-- Github Trophy -->
-<p align="center">
-  <a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&no-frame=true">
-  </a>
-</p>
-
 <!-- About Me in one line + my contents. -->
 <p align="center">
-  <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=%F0%9F%91%8B+Hello!+This+is+JunHyeok+Lee%2C+bnbong!;I+am+a+developer+trying+to+solve+problems;+and+make+a+better+world" alt="Typing SVG" /></a><p align="center">
+  <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello!+This+is+JunHyeok+Lee%2C+bnbong!;I+am+a+developer+trying+to+solve+problems;+and+make+a+better+world" alt="Typing SVG" /></a><p align="center">
   </a>
     <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko">
     <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
@@ -100,7 +92,15 @@
 
 <!-- My Programming Stats -->
 ## 🧑🏻‍💻 Programming Stats
-   
+
+<!-- Github Trophy -->
+<p align="center">
+  <a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&no-frame=true">
+  </a>
+</p>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bnbong&count_private=true&theme=onedark" /> | <img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bnbong&hide=css,html,javascript&langs_count=4&theme=onedark"/> | <a href="https://solved.ac/profile/bnbong"><img align="center" width="100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bnbong"/>|
 | ------------- | ------------- | ------------- |
 
@@ -141,17 +141,13 @@
 ### Individual Projects
    
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=KakaoTalk-channel-WeatherToday&theme=tokyonight)](https://github.com/bnbong/KakaoTalk-channel-WeatherToday)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Myblog_backend&theme=tokyonight)](https://github.com/bnbong/Myblog_backend)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=TooKindFriendChat&theme=tokyonight)](https://github.com/bnbong/TooKindFriendChat.git)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=FribyRunner&theme=tokyonight)](https://github.com/bnbong/FribyRunner.git)
 
 
 
 ### Team Projects
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Project-Pinned&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Project-Pinned)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=record-music-backend&theme=tokyonight&show_owner=true)](https://github.com/bnbong/record-music-backend)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=Awesome_ChattingApp&theme=tokyonight&show_owner=true)](https://github.com/bnbong/Awesome_ChattingApp)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bnbong&repo=SETB-BestPractice&theme=tokyonight&show_owner=true)](https://github.com/bnbong/SETB-BestPractice)
 
 ## 👀 I’m interested in ...
 
