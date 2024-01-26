@@ -7,9 +7,7 @@
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+JunHyeok+Lee%2C+bnbong!" alt="Typing SVG" /></a>
 
-  
-  [👉 About Me](https://bnbong.xyz)
-
+  <span style="font-size: 25px;"><a href="https://bnbong.xyz">👉 About Me 👈</a></span>
 
   </a>
     <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko">
@@ -95,9 +93,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Profile Trophies">
   </div>
 </p>
-
-| <img align="center" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bnbong&hide=css,html,javascript&langs_count=4&theme=onedark" alt="Top Languages" /> | <a href="https://solved.ac/profile/bnbong"><img align="center" width="100%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bnbong" alt="Solved.ac Profile" />|
-| ------------- | ------------- |
 
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
