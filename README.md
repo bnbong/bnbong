@@ -94,7 +94,6 @@
   </div>
 </p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?bnbong" frameborder="0"></iframe>
 
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
