@@ -124,12 +124,13 @@
 
 - GiftMusic backend developer (2020.09 ~ 2021.04 & 2023.02 ~ )
 - ERICA 창업팀 backend developer (2023.10 ~ )
-- Developing Jaram Groupware's Attendance & Penalty Service
+- 전공 학회 'Jaram' 출결, 패널티 서비스 개발 및 학회 Groupware 서비스 전반 개발 및 유지보수
 
 ### Awards
 
 - 제 4회 예술데이터가 바꾸는 세상 아이디어톤 우수상 (2023.08.29)
 - 2023 전국 대학생 SW 창업 아이디어톤 본선 진출 (2023.10)
+- 2023 한양대학교 ERICA 창업우수상 (팀 기프트뮤직, 2023.11.22)
 
 ### Certificates
 
