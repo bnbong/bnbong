@@ -97,7 +97,7 @@
 <p align="center">
   <div style="text-align:center;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=5&no-bg=true" alt="GitHub Profile Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Profile Trophies">
   </div>
 </p>
 
