@@ -92,6 +92,10 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Profile Trophies">
   </div>
+
+  <img align="left" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bnbong&theme=transparent&exclude=JavaScript"/>
+
+  <img align="right" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bnbong&exclude=JavaScript&theme=transparent"/>
 </p>
 
 <!---
