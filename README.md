@@ -80,8 +80,10 @@
   </div>
 </p>
 
-
-
+<!-- My Recent Blog Posts -->
+<h2 align="center">📝 My Blog Posts 📝</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- My Programming Stats -->
 <h2 align="center">🧑🏻‍💻 Programming Stats 🧑🏻‍💻</h2>
