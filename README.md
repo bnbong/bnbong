@@ -101,6 +101,8 @@
  - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true)
 
  - [23년 12월 네번째 주](https://blog.naver.com/bnbong/223304473280?fromRss=true)
+
+ - [23년 12월 세번째 주](https://blog.naver.com/bnbong/223297330842?fromRss=true)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
