@@ -21,4 +21,4 @@ jobs:
         with:
           feed_list: "https://rss.blog.naver.com/bnbong.xml"
           template: "$newline - [$title]($url)$newline"
-          max_post_count: 7
+          max_post_count: 8

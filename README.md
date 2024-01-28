@@ -104,6 +104,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+<br>
 
 <!-- My Programming Stats -->
 <h2 align="center">🧑🏻‍💻 Programming Stats 🧑🏻‍💻</h2>
