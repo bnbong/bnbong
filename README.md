@@ -99,6 +99,8 @@
  - [[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!](https://blog.naver.com/bnbong/223305059583?fromRss=true)
 
  - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true)
+
+ - [23년 12월 네번째 주](https://blog.naver.com/bnbong/223304473280?fromRss=true)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
