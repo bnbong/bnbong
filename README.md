@@ -88,6 +88,8 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+ - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://blog.naver.com/bnbong/223336295783?fromRss=true)
+
  - [24년 1월 두, 세번째 주](https://blog.naver.com/bnbong/223331302809?fromRss=true)
 
  - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://blog.naver.com/bnbong/223320810097?fromRss=true)
@@ -101,8 +103,6 @@
  - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true)
 
  - [23년 12월 네번째 주](https://blog.naver.com/bnbong/223304473280?fromRss=true)
-
- - [23년 12월 세번째 주](https://blog.naver.com/bnbong/223297330842?fromRss=true)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
