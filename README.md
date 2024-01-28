@@ -84,7 +84,7 @@
 <h2 align="center">📝 My Blog Posts 📝</h2>
 
 <p>
-  <img align="left" width="50%" src="./myavatar.jpeg"/>
+  <img align="left" width="40%" src="./myavatar.jpeg"/>
 </p>
 
 <!-- BLOG-POST-LIST:START -->- [24년 1월 두, 세번째 주](https://blog.naver.com/bnbong/223331302809?fromRss=true)

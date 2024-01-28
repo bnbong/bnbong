@@ -20,5 +20,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.blog.naver.com/bnbong.xml"
-          template: " - [$title]($url)$newline"
+          template: "$newline - [$title]($url)$newline"
           max_post_count: 6
