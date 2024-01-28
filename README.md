@@ -11,11 +11,11 @@
 
   </a>
     <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko">
-    <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
+    <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
     <a href="https://www.facebook.com/profile.php?id=100007712465866">
-    <img src="https://img.shields.io/badge/follow_Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007712465866">
+    <img src="https://img.shields.io/badge/follow_Facebook-3b5998?style=social&logo=Facebook&link=https://www.facebook.com/profile.php?id=100007712465866">
     <a href="https://blog.naver.com/bnbong/">
-    <img src="https://img.shields.io/badge/follow_Blog-2DB400?style=flat-square&logo=Naver&logoColor=white">
+    <img src="https://img.shields.io/badge/follow_Blog-2DB400?style=social&logo=Naver">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white">
@@ -53,9 +53,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-005C84?style=flat-square&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-sqaure&logo=firebase">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
   </div>
@@ -65,18 +65,18 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-sqaure&logo=githubactions&logoColor=367cfe">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-square&logo=githubactions&logoColor=367cfe">
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-sqaure&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-sqaure&logo=oracle&logoColor=black">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-sqaure&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-sqaure&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-sqaure&logo=vultr">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-sqaure&logo=Cloudflare&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-sqaure&logo=firebase">
-    <img src="https://img.shields.io/badge/Fluentd-599CD0?style=flat-sqaure&logo=fluentd&logoColor=white&labelColor=599CD0">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=flat-sqaure&logo=Kibana&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase">
+    <img src="https://img.shields.io/badge/Fluentd-599CD0?style=flat-square&logo=fluentd&logoColor=white&labelColor=599CD0">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
   </div>
 </p>
 
@@ -93,7 +93,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bnbong&title=MultipleLang,Followers,Repositories,Commits,Issues,PullRequest,Experience&theme=onedark&column=7&no-frame=true&margin-w=10&no-bg=true" alt="GitHub Profile Trophies">
   </div>
 </p>
-
 
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
