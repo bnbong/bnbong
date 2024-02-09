@@ -88,6 +88,8 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+ - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true)
+
  - [24년 2월 첫번째 주](https://blog.naver.com/bnbong/223345686141?fromRss=true)
 
  - [24년 1월 네번째 주](https://blog.naver.com/bnbong/223338343705?fromRss=true)
@@ -101,8 +103,6 @@
  - [24년 1월 첫번째 주](https://blog.naver.com/bnbong/223315795116?fromRss=true)
 
  - [23년 12월 마지막 주](https://blog.naver.com/bnbong/223312247805?fromRss=true)
-
- - [[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!](https://blog.naver.com/bnbong/223305059583?fromRss=true)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
