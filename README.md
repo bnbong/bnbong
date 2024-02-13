@@ -90,20 +90,20 @@
 <!-- BLOG-POST-LIST:START -->
  - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true)
  - Backend
- - [24년 2월 첫번째 주](https://blog.naver.com/bnbong/223345686141?fromRss=true)
- - 일기
- - [24년 1월 네번째 주](https://blog.naver.com/bnbong/223338343705?fromRss=true)
- - 일기
  - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://blog.naver.com/bnbong/223336295783?fromRss=true)
  - 그 외
- - [24년 1월 두, 세번째 주](https://blog.naver.com/bnbong/223331302809?fromRss=true)
- - 일기
  - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://blog.naver.com/bnbong/223320810097?fromRss=true)
  - 그 외
- - [24년 1월 첫번째 주](https://blog.naver.com/bnbong/223315795116?fromRss=true)
- - 일기
- - [23년 12월 마지막 주](https://blog.naver.com/bnbong/223312247805?fromRss=true)
- - 일기<!-- BLOG-POST-LIST:END -->
+ - [[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!](https://blog.naver.com/bnbong/223305059583?fromRss=true)
+ - 주저리&lpar;?&rpar;
+ - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true)
+ - 주저리&lpar;?&rpar;
+ - [[Ready or Not] 1년 동안 업데이트가 없던 게임에서 살아남기](https://blog.naver.com/bnbong/223290207414?fromRss=true)
+ - 게임 팁
+ - [[FastAPI] Pydantic 2.0 버전 적용하기](https://blog.naver.com/bnbong/223289591412?fromRss=true)
+ - Backend
+ - [23년도 핑거스타일 통기타 동아리 JOY 정기공연](https://blog.naver.com/bnbong/223281929715?fromRss=true)
+ - 기타 치는 비엔봉<!-- BLOG-POST-LIST:END -->
 
 <br>
 <br>
