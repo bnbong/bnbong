@@ -24,4 +24,4 @@ jobs:
           max_post_count: 8
           custom_tags: 'tag/category/'
           item_exec: |
-                if (customTags.tag.$.term.toLowerCase() === "일기") post = null;
+                if (customTags.tag.$ === "일기") post = null;
