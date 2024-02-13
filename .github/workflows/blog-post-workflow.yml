@@ -20,8 +20,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.blog.naver.com/bnbong.xml"
-          template: "$newline - [$title]($url)$newline"
-          max_post_count: 8
           custom_tags: 'tag/category/'
+          template: "$newline - [$title]($url)$newline - &tag"
+          max_post_count: 8
           item_exec: |
                 if (customTags.tag.$ === "일기") post = null;
