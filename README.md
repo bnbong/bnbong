@@ -89,21 +89,21 @@
 
 <!-- BLOG-POST-LIST:START -->
  - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true)
- - &tag
+ - Backend
  - [24년 2월 첫번째 주](https://blog.naver.com/bnbong/223345686141?fromRss=true)
- - &tag
+ - 일기
  - [24년 1월 네번째 주](https://blog.naver.com/bnbong/223338343705?fromRss=true)
- - &tag
+ - 일기
  - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://blog.naver.com/bnbong/223336295783?fromRss=true)
- - &tag
+ - 그 외
  - [24년 1월 두, 세번째 주](https://blog.naver.com/bnbong/223331302809?fromRss=true)
- - &tag
+ - 일기
  - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://blog.naver.com/bnbong/223320810097?fromRss=true)
- - &tag
+ - 그 외
  - [24년 1월 첫번째 주](https://blog.naver.com/bnbong/223315795116?fromRss=true)
- - &tag
+ - 일기
  - [23년 12월 마지막 주](https://blog.naver.com/bnbong/223312247805?fromRss=true)
- - &tag<!-- BLOG-POST-LIST:END -->
+ - 일기<!-- BLOG-POST-LIST:END -->
 
 <br>
 <br>
