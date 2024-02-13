@@ -24,4 +24,4 @@ jobs:
           template: "$newline - [$title]($url)$newline - $tag"
           max_post_count: 8
           item_exec: |
-                if (customTags.tag.$ === "일기") post = null;
+                if (customTags.tag === "일기") post = null;
