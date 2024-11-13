@@ -88,6 +88,8 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+ - [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
+
  - [[네트워크] CloudFlare DNS 레코드 프록싱기능... 다 숨겨줬잖아](https://blog.naver.com/bnbong/223549675199?fromRss=true&trackingCode=rss)
 
  - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true&trackingCode=rss)
@@ -101,8 +103,6 @@
  - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true&trackingCode=rss)
 
  - [[Ready or Not] 1년 동안 업데이트가 없던 게임에서 살아남기](https://blog.naver.com/bnbong/223290207414?fromRss=true&trackingCode=rss)
-
- - [[FastAPI] Pydantic 2.0 버전 적용하기](https://blog.naver.com/bnbong/223289591412?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
