@@ -7,7 +7,7 @@
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+JunHyeok+Lee%2C+bnbong!" alt="Typing SVG" /></a>
 
-  <span style="font-size: 25px;"><a href="https://bnbong.xyz">👉 About Me 👈</a></span>
+  <span style="font-size: 25px;"><a href="https://bnbong.github.io/">👉 About Me 👈</a></span>
 
   </a>
     <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko">
