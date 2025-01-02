@@ -10,8 +10,8 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-blog-daily:
+    name: Update this repo's README with latest daily blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,11 +19,24 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.blog.naver.com/bnbong.xml,https://bnbong.github.io/feed_rss_updated.xml"
+          feed_list: "https://rss.blog.naver.com/bnbong.xml"
           custom_tags: 'tag/category/'
-          feed_names: "Daily,Tech"
-          comment_tag_name: "DAILY,TECH"
-          template: "$newline - <$feedName> [$title]($url)$newline"
+          comment_tag_name: "DAILY"
+          template: "$newline - [$title]($url)$newline"
           max_post_count: 8
-          # item_exec: |
-          #       if (customTags.tag === "일기") post = null;
+          item_exec: |
+                if (customTags.tag !== "일기") post = null;
+  update-readme-with-blog-tech:
+    name: Update this repo's README with latest tech blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://bnbong.github.io/feed_rss_updated.xml"
+          custom_tags: 'tag/category/'
+          comment_tag_name: "TECH"
+          template: "$newline - [$title]($url)$newline"
+          max_post_count: 8
