@@ -83,7 +83,7 @@
 <!-- My Recent Blog Posts -->
 <h2 align="center">📝 My Blog Posts 📝</h2>
 
-<h3 align="center" href="https://blog.naver.com/bnbong">🏠 Daily</h3>
+<h3 align="center"><a href="https://blog.naver.com/bnbong">🏠 Daily</a></h3>
 
 <p>
   <img align="left" width="40%" src="./aboutme.jpg"/>
@@ -107,7 +107,7 @@
  - [24년 8월](https://blog.naver.com/bnbong/223570528098?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
-<h3 align="center" href="https://bnbong.github.io/">⚙️ Tech</h3>
+<h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
 
 <p>
   <img align="left" width="40%" src="./myavatar.jpeg"/>
