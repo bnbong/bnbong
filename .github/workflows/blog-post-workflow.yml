@@ -19,8 +19,9 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.blog.naver.com/bnbong.xml"
+          feed_list: "https://rss.blog.naver.com/bnbong.xml,https://bnbong.github.io/feed_rss_updated.xml"
           custom_tags: 'tag/category/'
+          feed_names: "Daily,Tech"
           template: "$newline - [$title]($url)$newline"
           max_post_count: 8
           item_exec: |
