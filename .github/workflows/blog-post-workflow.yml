@@ -22,6 +22,7 @@ jobs:
           feed_list: "https://rss.blog.naver.com/bnbong.xml,https://bnbong.github.io/feed_rss_updated.xml"
           custom_tags: 'tag/category/'
           feed_names: "Daily,Tech"
+          comment_tag_name: "DAILY,TECH"
           template: "$newline - <$feedName> [$title]($url)$newline"
           max_post_count: 8
           # item_exec: |

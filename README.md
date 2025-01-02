@@ -83,27 +83,19 @@
 <!-- My Recent Blog Posts -->
 <h2 align="center">📝 My Blog Posts 📝</h2>
 
+<h3 align="center">Daily</h3>
+
 <p>
   <img align="left" width="40%" src="./myavatar.jpeg"/>
 </p>
 
-<!-- BLOG-POST-LIST:START -->
- - [개발 블로그 분리~](https://blog.naver.com/bnbong/223678683657?fromRss=true&trackingCode=rss)
+<!-- DAILY:START -->
+<!-- DAILY:END -->
 
- - [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
+<h3 align="center">Tech</h3>
 
- - [[네트워크] CloudFlare DNS 레코드 프록싱기능... 다 숨겨줬잖아](https://blog.naver.com/bnbong/223549675199?fromRss=true&trackingCode=rss)
-
- - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true&trackingCode=rss)
-
- - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://blog.naver.com/bnbong/223336295783?fromRss=true&trackingCode=rss)
-
- - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://blog.naver.com/bnbong/223320810097?fromRss=true&trackingCode=rss)
-
- - [[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!](https://blog.naver.com/bnbong/223305059583?fromRss=true&trackingCode=rss)
-
- - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true&trackingCode=rss)
-<!-- BLOG-POST-LIST:END -->
+<!-- TECH:START -->
+<!-- TECH:END -->
 
 <br>
 <br>
