@@ -83,10 +83,10 @@
 <!-- My Recent Blog Posts -->
 <h2 align="center">📝 My Blog Posts 📝</h2>
 
-<h3 align="center">Daily</h3>
+<h3 align="center">🏠 [Daily](https://blog.naver.com/bnbong)</h3>
 
 <p>
-  <img align="left" width="40%" src="./myavatar.jpeg"/>
+  <img align="left" width="40%" src="./aboutme.jpg"/>
 </p>
 
 <!-- DAILY:START -->
@@ -107,7 +107,11 @@
  - [24년 7월](https://blog.naver.com/bnbong/223529331969?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
-<h3 align="center">Tech</h3>
+<h3 align="center">⚙️ [Tech](https://bnbong.github.io/)</h3>
+
+<p>
+  <img align="left" width="40%" src="./myavatar.jpeg"/>
+</p>
 
 <!-- TECH:START -->
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)

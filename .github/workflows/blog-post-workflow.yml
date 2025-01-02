@@ -25,7 +25,7 @@ jobs:
           template: "$newline - [$title]($url)$newline"
           max_post_count: 8
           item_exec: |
-                if (customTags.tag !== "일기") post = null;
+                if (customTags.tag === "개발과 코딩") post = null;
   update-readme-with-blog-tech:
     name: Update this repo's README with latest tech blog posts
     runs-on: ubuntu-latest
