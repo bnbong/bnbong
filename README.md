@@ -88,21 +88,21 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
- - [개발 블로그 분리~](https://blog.naver.com/bnbong/223678683657?fromRss=true&trackingCode=rss)
+ - <Daily> [24년 12월](https://blog.naver.com/bnbong/223712392259?fromRss=true&trackingCode=rss)
 
- - [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
+ - <Tech> [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
 
- - [[네트워크] CloudFlare DNS 레코드 프록싱기능... 다 숨겨줬잖아](https://blog.naver.com/bnbong/223549675199?fromRss=true&trackingCode=rss)
+ - <Daily> [24년 11월](https://blog.naver.com/bnbong/223703955867?fromRss=true&trackingCode=rss)
 
- - [[Backend] 좋은 백엔드 개발자가 되기 위한 기본기 다지기](https://blog.naver.com/bnbong/223349141010?fromRss=true&trackingCode=rss)
+ - <Daily> [개발 블로그 분리~](https://blog.naver.com/bnbong/223678683657?fromRss=true&trackingCode=rss)
 
- - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://blog.naver.com/bnbong/223336295783?fromRss=true&trackingCode=rss)
+ - <Tech> [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
 
- - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://blog.naver.com/bnbong/223320810097?fromRss=true&trackingCode=rss)
+ - <Tech> [[Computer Network] CloudFlare DNS 레코드 프록시 기능...다 숨겨줬잖아](https://bnbong.github.io/blog/2024/08/16/computer-network-cloudflare-dns-%EB%A0%88%EC%BD%94%EB%93%9C-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%8A%A5%EB%8B%A4-%EC%88%A8%EA%B2%A8%EC%A4%AC%EC%9E%96%EC%95%84/)
 
- - [[2023 마이 블로그 리포트] 데이터로 알아보는 블로그 속 숨은 직업 찾기!](https://blog.naver.com/bnbong/223305059583?fromRss=true&trackingCode=rss)
+ - <Daily> [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
 
- - [안녕, 2023](https://blog.naver.com/bnbong/223304667984?fromRss=true&trackingCode=rss)
+ - <Daily> [24년 10월](https://blog.naver.com/bnbong/223643863157?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
