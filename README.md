@@ -95,6 +95,21 @@
 <h3 align="center">Tech</h3>
 
 <!-- TECH:START -->
+ - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
+
+ - [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
+
+ - [[Computer Network] CloudFlare DNS 레코드 프록시 기능...다 숨겨줬잖아](https://bnbong.github.io/blog/2024/08/16/computer-network-cloudflare-dns-%EB%A0%88%EC%BD%94%EB%93%9C-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%8A%A5%EB%8B%A4-%EC%88%A8%EA%B2%A8%EC%A4%AC%EC%9E%96%EC%95%84/)
+
+ - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://bnbong.github.io/blog/2024/01/12/github-readmemd%EB%A1%9C-%EB%82%B4-%ED%94%84%EB%A1%9C%ED%95%84-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)
+
+ - [[FastAPI] Pydantic 2.0 적용하기](https://bnbong.github.io/blog/2023/12/11/fastapi-pydantic-20-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
+
+ - [[API Documentation] Django backend에 swagger로 API endpoint 문서화 하기&lpar;drf-yasg&rpar;](https://bnbong.github.io/blog/2023/10/02/api-documentation-django-backend%EC%97%90-swagger%EB%A1%9C-api-endpoint-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%98%EA%B8%B0drf-yasg/)
+
+ - [[Project] Project-Pinned 프로젝트 회고](https://bnbong.github.io/blog/2023/09/21/project-project-pinned-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0/)
+
+ - [[CSpell] 이 코드 외않되 / 이 코드 왜 안 돼 중에 뭐가 맞는 거예용?](https://bnbong.github.io/blog/2023/08/17/cspell-%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%B8%EC%95%8A%EB%90%98--%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%9C-%EC%95%88-%EB%8F%BC-%EC%A4%91%EC%97%90-%EB%AD%90%EA%B0%80-%EB%A7%9E%EB%8A%94-%EA%B1%B0%EC%98%88%EC%9A%A9/)
 <!-- TECH:END -->
 <br>
 <br>
