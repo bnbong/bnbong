@@ -90,6 +90,21 @@
 </p>
 
 <!-- DAILY:START -->
+ - [24년 12월](https://blog.naver.com/bnbong/223712392259?fromRss=true&trackingCode=rss)
+
+ - [24년 11월](https://blog.naver.com/bnbong/223703955867?fromRss=true&trackingCode=rss)
+
+ - [24년 10월](https://blog.naver.com/bnbong/223643863157?fromRss=true&trackingCode=rss)
+
+ - [24년 9월 네번째 주](https://blog.naver.com/bnbong/223602284913?fromRss=true&trackingCode=rss)
+
+ - [24년 9월 두, 세번째 주](https://blog.naver.com/bnbong/223591374554?fromRss=true&trackingCode=rss)
+
+ - [24년 9월 첫번째 주](https://blog.naver.com/bnbong/223578956028?fromRss=true&trackingCode=rss)
+
+ - [24년 8월](https://blog.naver.com/bnbong/223570528098?fromRss=true&trackingCode=rss)
+
+ - [24년 7월](https://blog.naver.com/bnbong/223529331969?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center">Tech</h3>
