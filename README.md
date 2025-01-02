@@ -114,6 +114,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://bnbong.github.io/blog/2024/01/28/github-%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-readme%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/)
+
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
 
  - [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
@@ -127,8 +129,6 @@
  - [[API Documentation] Django backend에 swagger로 API endpoint 문서화 하기&lpar;drf-yasg&rpar;](https://bnbong.github.io/blog/2023/10/02/api-documentation-django-backend%EC%97%90-swagger%EB%A1%9C-api-endpoint-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%98%EA%B8%B0drf-yasg/)
 
  - [[Project] Project-Pinned 프로젝트 회고](https://bnbong.github.io/blog/2023/09/21/project-project-pinned-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0/)
-
- - [[CSpell] 이 코드 외않되 / 이 코드 왜 안 돼 중에 뭐가 맞는 거예용?](https://bnbong.github.io/blog/2023/08/17/cspell-%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%B8%EC%95%8A%EB%90%98--%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%9C-%EC%95%88-%EB%8F%BC-%EC%A4%91%EC%97%90-%EB%AD%90%EA%B0%80-%EB%A7%9E%EB%8A%94-%EA%B1%B0%EC%98%88%EC%9A%A9/)
 <!-- TECH:END -->
 <br>
 <br>
