@@ -114,6 +114,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Project] MKDocs-materials로 개발 블로그 &amp; 포트폴리오 사이트 배포하기](https://bnbong.github.io/blog/2025/01/02/project-mkdocs-materials%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/)
+
  - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://bnbong.github.io/blog/2024/01/28/github-%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-readme%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/)
 
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
@@ -127,8 +129,6 @@
  - [[FastAPI] Pydantic 2.0 적용하기](https://bnbong.github.io/blog/2023/12/11/fastapi-pydantic-20-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
  - [[API Documentation] Django backend에 swagger로 API endpoint 문서화 하기&lpar;drf-yasg&rpar;](https://bnbong.github.io/blog/2023/10/02/api-documentation-django-backend%EC%97%90-swagger%EB%A1%9C-api-endpoint-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%98%EA%B8%B0drf-yasg/)
-
- - [[Project] Project-Pinned 프로젝트 회고](https://bnbong.github.io/blog/2023/09/21/project-project-pinned-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0/)
 <!-- TECH:END -->
 <br>
 <br>
