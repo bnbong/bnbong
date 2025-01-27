@@ -114,6 +114,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
+
  - [[Computer Network] ARP protocol](https://bnbong.github.io/blog/2025/01/15/computer-network-arp-protocol/)
 
  - [[Project] MKDocs-materials로 개발 블로그 &amp; 포트폴리오 사이트 배포하기](https://bnbong.github.io/blog/2025/01/02/project-mkdocs-materials%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/)
@@ -127,8 +129,6 @@
  - [[Computer Network] CloudFlare DNS 레코드 프록시 기능...다 숨겨줬잖아](https://bnbong.github.io/blog/2024/08/16/computer-network-cloudflare-dns-%EB%A0%88%EC%BD%94%EB%93%9C-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%8A%A5%EB%8B%A4-%EC%88%A8%EA%B2%A8%EC%A4%AC%EC%9E%96%EC%95%84/)
 
  - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://bnbong.github.io/blog/2024/01/12/github-readmemd%EB%A1%9C-%EB%82%B4-%ED%94%84%EB%A1%9C%ED%95%84-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)
-
- - [[FastAPI] Pydantic 2.0 적용하기](https://bnbong.github.io/blog/2023/12/11/fastapi-pydantic-20-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 <!-- TECH:END -->
 <br>
 <br>
