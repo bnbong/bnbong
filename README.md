@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [25년 3월](https://blog.naver.com/bnbong/223816175951?fromRss=true&trackingCode=rss)
+
  - [25년 2월](https://blog.naver.com/bnbong/223784752309?fromRss=true&trackingCode=rss)
 
  - [25년 1월](https://blog.naver.com/bnbong/223753435435?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
 
  - [24년 10월](https://blog.naver.com/bnbong/223643863157?fromRss=true&trackingCode=rss)
-
- - [24년 9월 네번째 주](https://blog.naver.com/bnbong/223602284913?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
