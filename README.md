@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [25년 6월](https://blog.naver.com/bnbong/223921642105?fromRss=true&trackingCode=rss)
+
  - [25년 5월](https://blog.naver.com/bnbong/223877209967?fromRss=true&trackingCode=rss)
 
  - [25년 4월](https://blog.naver.com/bnbong/223853188764?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [안녕, 2024](https://blog.naver.com/bnbong/223716127127?fromRss=true&trackingCode=rss)
 
  - [24년 12월](https://blog.naver.com/bnbong/223712392259?fromRss=true&trackingCode=rss)
-
- - [24년 11월](https://blog.naver.com/bnbong/223703955867?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
