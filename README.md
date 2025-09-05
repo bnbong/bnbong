@@ -1,5 +1,5 @@
 <!-- Header Content -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Backend%20developer&descSize=30&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Cloud%20%26amp%3B%20Backend%20Developer&descSize=30&descAlignY=75&animation=fadeIn)
 
 <!-- About Me in one line + my contents. -->
 <p align="center">
