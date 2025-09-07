@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [노래, 추억, 골동품](https://blog.naver.com/bnbong/223999173190?fromRss=true&trackingCode=rss)
+
  - [25년 8월](https://blog.naver.com/bnbong/223990284928?fromRss=true&trackingCode=rss)
 
  - [25년 7월](https://blog.naver.com/bnbong/223951315554?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [25년 3월](https://blog.naver.com/bnbong/223816175951?fromRss=true&trackingCode=rss)
 
  - [25년 2월](https://blog.naver.com/bnbong/223784752309?fromRss=true&trackingCode=rss)
-
- - [25년 1월](https://blog.naver.com/bnbong/223753435435?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
