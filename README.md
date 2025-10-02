@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [어바웃 미](https://blog.naver.com/bnbong/224029934757?fromRss=true&trackingCode=rss)
+
  - [25년 9월](https://blog.naver.com/bnbong/224029804832?fromRss=true&trackingCode=rss)
 
  - [My bestie guitar covers ✨](https://blog.naver.com/bnbong/224023771295?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [25년 7월](https://blog.naver.com/bnbong/223951315554?fromRss=true&trackingCode=rss)
 
  - [25년 6월](https://blog.naver.com/bnbong/223921642105?fromRss=true&trackingCode=rss)
-
- - [25년 5월](https://blog.naver.com/bnbong/223877209967?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
