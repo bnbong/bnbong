@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [날씨의 신의 얄궂은 장난](https://blog.naver.com/bnbong/224046632251?fromRss=true&trackingCode=rss)
+
  - [ㅊㅜㅅㅓㄱ](https://blog.naver.com/bnbong/224038509453?fromRss=true&trackingCode=rss)
 
  - [어바웃 미](https://blog.naver.com/bnbong/224029934757?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [노래, 추억, 골동품](https://blog.naver.com/bnbong/223999173190?fromRss=true&trackingCode=rss)
 
  - [25년 8월](https://blog.naver.com/bnbong/223990284928?fromRss=true&trackingCode=rss)
-
- - [25년 7월](https://blog.naver.com/bnbong/223951315554?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
