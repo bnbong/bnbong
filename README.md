@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [2025 2학기 버스킹](https://blog.naver.com/bnbong/224069929892?fromRss=true&trackingCode=rss)
+
  - [25년 10월](https://blog.naver.com/bnbong/224065792499?fromRss=true&trackingCode=rss)
 
  - [날씨의 신의 얄궂은 장난](https://blog.naver.com/bnbong/224046632251?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [My bestie guitar covers ✨](https://blog.naver.com/bnbong/224023771295?fromRss=true&trackingCode=rss)
 
  - [✈️](https://blog.naver.com/bnbong/224016628414?fromRss=true&trackingCode=rss)
-
- - [노래, 추억, 골동품](https://blog.naver.com/bnbong/223999173190?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
