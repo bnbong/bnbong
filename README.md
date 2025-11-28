@@ -1,5 +1,5 @@
 <!-- Header Content -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Backend%20developer&descSize=30&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Cloud%20%26amp%3B%20Backend%20Developer&descSize=30&descAlignY=75&animation=fadeIn)
 
 <!-- About Me in one line + my contents. -->
 <p align="center">
@@ -90,21 +90,21 @@
 </p>
 
 <!-- DAILY:START -->
- - [24년 12월](https://blog.naver.com/bnbong/223712392259?fromRss=true&trackingCode=rss)
+ - [[플레이리스트] 마크툽 앓이](https://blog.naver.com/bnbong/224074969471?fromRss=true&trackingCode=rss)
 
- - [24년 11월](https://blog.naver.com/bnbong/223703955867?fromRss=true&trackingCode=rss)
+ - [2025 2학기 버스킹](https://blog.naver.com/bnbong/224069929892?fromRss=true&trackingCode=rss)
 
- - [[플레이리스트] 내 어린 시절과 함께한 플레이리스트](https://blog.naver.com/bnbong/223659452744?fromRss=true&trackingCode=rss)
+ - [25년 10월](https://blog.naver.com/bnbong/224065792499?fromRss=true&trackingCode=rss)
 
- - [24년 10월](https://blog.naver.com/bnbong/223643863157?fromRss=true&trackingCode=rss)
+ - [날씨의 신의 얄궂은 장난](https://blog.naver.com/bnbong/224046632251?fromRss=true&trackingCode=rss)
 
- - [24년 9월 네번째 주](https://blog.naver.com/bnbong/223602284913?fromRss=true&trackingCode=rss)
+ - [ㅊㅜㅅㅓㄱ](https://blog.naver.com/bnbong/224038509453?fromRss=true&trackingCode=rss)
 
- - [24년 9월 두, 세번째 주](https://blog.naver.com/bnbong/223591374554?fromRss=true&trackingCode=rss)
+ - [어바웃 미](https://blog.naver.com/bnbong/224029934757?fromRss=true&trackingCode=rss)
 
- - [24년 9월 첫번째 주](https://blog.naver.com/bnbong/223578956028?fromRss=true&trackingCode=rss)
+ - [25년 9월](https://blog.naver.com/bnbong/224029804832?fromRss=true&trackingCode=rss)
 
- - [24년 8월](https://blog.naver.com/bnbong/223570528098?fromRss=true&trackingCode=rss)
+ - [My bestie guitar covers ✨](https://blog.naver.com/bnbong/224023771295?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
@@ -114,21 +114,21 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.github.io/blog/2025/04/08/computer-science-%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4/)
+
+ - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
+
+ - [[Computer Network] ARP protocol](https://bnbong.github.io/blog/2025/01/15/computer-network-arp-protocol/)
+
+ - [[Project] MKDocs-materials로 개발 블로그 &amp; 포트폴리오 사이트 배포하기](https://bnbong.github.io/blog/2025/01/02/project-mkdocs-materials%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/)
+
+ - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://bnbong.github.io/blog/2024/01/28/github-%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-readme%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/)
+
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
 
  - [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
 
  - [[Computer Network] CloudFlare DNS 레코드 프록시 기능...다 숨겨줬잖아](https://bnbong.github.io/blog/2024/08/16/computer-network-cloudflare-dns-%EB%A0%88%EC%BD%94%EB%93%9C-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%8A%A5%EB%8B%A4-%EC%88%A8%EA%B2%A8%EC%A4%AC%EC%9E%96%EC%95%84/)
-
- - [[Github] README.md로 내 프로필 맛있게 꾸미기](https://bnbong.github.io/blog/2024/01/12/github-readmemd%EB%A1%9C-%EB%82%B4-%ED%94%84%EB%A1%9C%ED%95%84-%EB%A7%9B%EC%9E%88%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)
-
- - [[FastAPI] Pydantic 2.0 적용하기](https://bnbong.github.io/blog/2023/12/11/fastapi-pydantic-20-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
-
- - [[API Documentation] Django backend에 swagger로 API endpoint 문서화 하기&lpar;drf-yasg&rpar;](https://bnbong.github.io/blog/2023/10/02/api-documentation-django-backend%EC%97%90-swagger%EB%A1%9C-api-endpoint-%EB%AC%B8%EC%84%9C%ED%99%94-%ED%95%98%EA%B8%B0drf-yasg/)
-
- - [[Project] Project-Pinned 프로젝트 회고](https://bnbong.github.io/blog/2023/09/21/project-project-pinned-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0/)
-
- - [[CSpell] 이 코드 외않되 / 이 코드 왜 안 돼 중에 뭐가 맞는 거예용?](https://bnbong.github.io/blog/2023/08/17/cspell-%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%B8%EC%95%8A%EB%90%98--%EC%9D%B4-%EC%BD%94%EB%93%9C-%EC%99%9C-%EC%95%88-%EB%8F%BC-%EC%A4%91%EC%97%90-%EB%AD%90%EA%B0%80-%EB%A7%9E%EB%8A%94-%EA%B1%B0%EC%98%88%EC%9A%A9/)
 <!-- TECH:END -->
 <br>
 <br>
