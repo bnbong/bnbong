@@ -107,6 +107,9 @@
  - [My bestie guitar covers ✨](https://blog.naver.com/bnbong/224023771295?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
+<br>
+<br>
+
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
 
 <p>
