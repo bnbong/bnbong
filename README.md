@@ -86,7 +86,7 @@
 <h3 align="center"><a href="https://blog.naver.com/bnbong">🏠 Daily</a></h3>
 
 <p>
-  <img align="left" width="40%" src="./aboutme.jpg"/>
+  <img align="left" width="40%" src="./profile_1.PNG"/>
 </p>
 
 <!-- DAILY:START -->
@@ -110,7 +110,7 @@
 <h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
 
 <p>
-  <img align="left" width="40%" src="./myavatar.jpeg"/>
+  <img align="left" width="40%" src="./profile_2.JPG"/>
 </p>
 
 <!-- TECH:START -->
