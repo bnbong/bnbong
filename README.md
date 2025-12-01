@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [25년 11월](https://blog.naver.com/bnbong/224094455365?fromRss=true&trackingCode=rss)
+
  - [[플레이리스트] 마크툽 앓이](https://blog.naver.com/bnbong/224074969471?fromRss=true&trackingCode=rss)
 
  - [2025 2학기 버스킹](https://blog.naver.com/bnbong/224069929892?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [어바웃 미](https://blog.naver.com/bnbong/224029934757?fromRss=true&trackingCode=rss)
 
  - [25년 9월](https://blog.naver.com/bnbong/224029804832?fromRss=true&trackingCode=rss)
-
- - [My bestie guitar covers ✨](https://blog.naver.com/bnbong/224023771295?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <br>
