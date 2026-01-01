@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [[2025 마이 블로그 리포트] 데이터로 채워보는 내 블로그 취향 리포트](https://blog.naver.com/bnbong/224130697801?fromRss=true&trackingCode=rss)
+
  - [25년 12월](https://blog.naver.com/bnbong/224129170916?fromRss=true&trackingCode=rss)
 
  - [25년 11월](https://blog.naver.com/bnbong/224094455365?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [날씨의 신의 얄궂은 장난](https://blog.naver.com/bnbong/224046632251?fromRss=true&trackingCode=rss)
 
  - [ㅊㅜㅅㅓㄱ](https://blog.naver.com/bnbong/224038509453?fromRss=true&trackingCode=rss)
-
- - [어바웃 미](https://blog.naver.com/bnbong/224029934757?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <br>
