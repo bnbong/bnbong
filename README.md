@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Project] FastAPI-fastkit 개발기](https://bnbong.github.io/blog/2026/01/08/project-fastapi-fastkit-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
+
  - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.github.io/blog/2025/04/08/computer-science-%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4/)
 
  - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
@@ -130,8 +132,6 @@
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
 
  - [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
-
- - [[Computer Network] CloudFlare DNS 레코드 프록시 기능...다 숨겨줬잖아](https://bnbong.github.io/blog/2024/08/16/computer-network-cloudflare-dns-%EB%A0%88%EC%BD%94%EB%93%9C-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EB%8A%A5%EB%8B%A4-%EC%88%A8%EA%B2%A8%EC%A4%AC%EC%9E%96%EC%95%84/)
 <!-- TECH:END -->
 <br>
 <br>
