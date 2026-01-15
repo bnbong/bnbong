@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.github.io/blog/2026/01/15/python-%EB%B0%B1%EC%A4%80-1436%EB%B2%88---%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
+
  - [[Project] FastAPI-fastkit 개발기](https://bnbong.github.io/blog/2026/01/08/project-fastapi-fastkit-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
 
  - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.github.io/blog/2025/04/08/computer-science-%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4/)
@@ -130,8 +132,6 @@
  - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://bnbong.github.io/blog/2024/01/28/github-%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-readme%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/)
 
  - [[Computer Network] 컴퓨터 네트워크 개요](https://bnbong.github.io/blog/2024/12/30/computer-network-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94/)
-
- - [[Cloud] 무료로 클라우드 개발환경을 구성하기 위한 몸부림 &lpar;1편&rpar;](https://bnbong.github.io/blog/2023/06/12/cloud-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%B8%EB%B6%80%EB%A6%BC-1%ED%8E%B8/)
 <!-- TECH:END -->
 <br>
 <br>
