@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Computer Network] IPv4](https://bnbong.github.io/blog/2025/01/17/computer-network-ipv4/)
+
  - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.github.io/blog/2026/01/15/python-%EB%B0%B1%EC%A4%80-1436%EB%B2%88---%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
 
  - [[Project] FastAPI-fastkit 개발기](https://bnbong.github.io/blog/2026/01/08/project-fastapi-fastkit-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
@@ -124,8 +126,6 @@
  - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.github.io/blog/2025/04/08/computer-science-%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4/)
 
  - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
-
- - [[Computer Network] IPv4](https://bnbong.github.io/blog/2025/01/17/computer-network-ipv4/)
 
  - [[Computer Network] ARP protocol](https://bnbong.github.io/blog/2025/01/15/computer-network-arp-protocol/)
 
