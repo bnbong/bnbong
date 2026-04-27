@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [생소하거나 헷갈리는 Python 문법들](https://bnbong.github.io/blog/2026/04/27/%EC%83%9D%EC%86%8C%ED%95%98%EA%B1%B0%EB%82%98-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-python-%EB%AC%B8%EB%B2%95%EB%93%A4/)
+
  - [[Computer Network] IPv4](https://bnbong.github.io/blog/2025/01/17/computer-network-ipv4/)
 
  - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.github.io/blog/2026/01/15/python-%EB%B0%B1%EC%A4%80-1436%EB%B2%88---%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
@@ -130,8 +132,6 @@
  - [[Computer Network] ARP protocol](https://bnbong.github.io/blog/2025/01/15/computer-network-arp-protocol/)
 
  - [[Project] MKDocs-materials로 개발 블로그 &amp; 포트폴리오 사이트 배포하기](https://bnbong.github.io/blog/2025/01/02/project-mkdocs-materials%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/)
-
- - [[Github] 내가 작성한 네이버 블로그 포스트를 README에 자동으로 연동시키기](https://bnbong.github.io/blog/2024/01/28/github-%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-readme%EC%97%90-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/)
 <!-- TECH:END -->
 <br>
 <br>
