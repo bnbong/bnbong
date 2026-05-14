@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Algorithm] 코딩테스트 준비를 위한 알고리즘 핵심 유형 정리&lpar;Python 예제 문제 풀이 포함&rpar;](https://bnbong.github.io/blog/2026/05/14/algorithm-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%B5%EC%8B%AC-%EC%9C%A0%ED%98%95-%EC%A0%95%EB%A6%ACpython-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%ED%8F%AC%ED%95%A8/)
+
  - [생소하거나 헷갈리는 Python 문법들](https://bnbong.github.io/blog/2026/04/27/%EC%83%9D%EC%86%8C%ED%95%98%EA%B1%B0%EB%82%98-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-python-%EB%AC%B8%EB%B2%95%EB%93%A4/)
 
  - [[Computer Network] IPv4](https://bnbong.github.io/blog/2025/01/17/computer-network-ipv4/)
@@ -130,8 +132,6 @@
  - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
 
  - [[Computer Network] ARP protocol](https://bnbong.github.io/blog/2025/01/15/computer-network-arp-protocol/)
-
- - [[Project] MKDocs-materials로 개발 블로그 &amp; 포트폴리오 사이트 배포하기](https://bnbong.github.io/blog/2025/01/02/project-mkdocs-materials%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8--%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0/)
 <!-- TECH:END -->
 <br>
 <br>
