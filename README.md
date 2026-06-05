@@ -151,6 +151,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bnbong&theme=transparent"/>
 </p>
 
+<p align="center">
+  <img alt="codemaru card for bnbong" src="https://codemaru.bnbong.com/api/card.svg?github=bnbong&boj=bnbong&leetcode=bnbong&theme=dark" />
+</p>
+
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
