@@ -110,7 +110,7 @@
 <br>
 <br>
 
-<h3 align="center"><a href="https://bnbong.github.io/">⚙️ Tech</a></h3>
+<h3 align="center"><a href="https://bnbong.com/blog/">⚙️ Tech</a></h3>
 
 <p>
   <img align="left" width="40%" src="./profile_2.JPG"/>
