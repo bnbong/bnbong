@@ -117,21 +117,21 @@
 </p>
 
 <!-- TECH:START -->
- - [[Computer Network] IPv6](https://bnbong.github.io/blog/2026/05/26/computer-network-ipv6/)
+ - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
 
- - [[Algorithm] 코딩테스트 준비를 위한 알고리즘 핵심 유형 정리&lpar;Python 예제 문제 풀이 포함&rpar;](https://bnbong.github.io/blog/2026/05/14/algorithm-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%B5%EC%8B%AC-%EC%9C%A0%ED%98%95-%EC%A0%95%EB%A6%ACpython-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%ED%8F%AC%ED%95%A8/)
+ - [[Algorithm] 코딩테스트 준비를 위한 알고리즘 핵심 유형 정리&lpar;Python 예제 문제 풀이 포함&rpar;](https://bnbong.com/blog/20260514/)
 
- - [생소하거나 헷갈리는 Python 문법들](https://bnbong.github.io/blog/2026/04/27/%EC%83%9D%EC%86%8C%ED%95%98%EA%B1%B0%EB%82%98-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-python-%EB%AC%B8%EB%B2%95%EB%93%A4/)
+ - [생소하거나 헷갈리는 Python 문법들](https://bnbong.com/blog/20260427-python-difficult-syntax/)
 
- - [[Computer Network] IPv4](https://bnbong.github.io/blog/2025/01/17/computer-network-ipv4/)
+ - [[Computer Network] IPv4](https://bnbong.com/blog/20250117-computer-network-3/)
 
- - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.github.io/blog/2026/01/15/python-%EB%B0%B1%EC%A4%80-1436%EB%B2%88---%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C/)
+ - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.com/blog/20260115-algo-1436/)
 
- - [[Project] FastAPI-fastkit 개발기](https://bnbong.github.io/blog/2026/01/08/project-fastapi-fastkit-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
+ - [[Project] FastAPI-fastkit 개발기](https://bnbong.com/blog/20260108-fastkit/)
 
- - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.github.io/blog/2025/04/08/computer-science-%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EC%B0%A8%EC%9D%B4/)
+ - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.com/blog/20250408-parallelism-concurrency/)
 
- - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.github.io/blog/2025/01/28/computer-science-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%8F-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88/)
+ - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.com/blog/20250128-cs-algorithms/)
 <!-- TECH:END -->
 <br>
 <br>
