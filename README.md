@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [생소하거나 헷갈리는 Java 문법들](https://bnbong.com/blog/20260627/)
+
  - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
 
  - [[Algorithm] 코딩테스트 준비를 위한 알고리즘 핵심 유형 정리&lpar;Python 예제 문제 풀이 포함&rpar;](https://bnbong.com/blog/20260514/)
@@ -130,8 +132,6 @@
  - [[Project] FastAPI-fastkit 개발기](https://bnbong.com/blog/20260108-fastkit/)
 
  - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.com/blog/20250408-parallelism-concurrency/)
-
- - [[Computer Science] 코딩 테스트 준비 - 알고리즘 및 자료구조 기초](https://bnbong.com/blog/20250128-cs-algorithms/)
 <!-- TECH:END -->
 <br>
 <br>
