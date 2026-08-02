@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [26년 7월](https://blog.naver.com/bnbong/224365970384?fromRss=true&trackingCode=rss)
+
  - [26년 6월](https://blog.naver.com/bnbong/224334227103?fromRss=true&trackingCode=rss)
 
  - [26년 5월](https://blog.naver.com/bnbong/224301894211?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [26년 1월](https://blog.naver.com/bnbong/224165853527?fromRss=true&trackingCode=rss)
 
  - [안녕, 2025](https://blog.naver.com/bnbong/224132942114?fromRss=true&trackingCode=rss)
-
- - [[2025 마이 블로그 리포트] 데이터로 채워보는 내 블로그 취향 리포트](https://blog.naver.com/bnbong/224130697801?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <br>
