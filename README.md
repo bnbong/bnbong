@@ -90,6 +90,8 @@
 </p>
 
 <!-- DAILY:START -->
+ - [조Love](https://blog.naver.com/bnbong/224385787937?fromRss=true&trackingCode=rss)
+
  - [26년 7월](https://blog.naver.com/bnbong/224365970384?fromRss=true&trackingCode=rss)
 
  - [26년 6월](https://blog.naver.com/bnbong/224334227103?fromRss=true&trackingCode=rss)
@@ -103,8 +105,6 @@
  - [26년 2월](https://blog.naver.com/bnbong/224206720715?fromRss=true&trackingCode=rss)
 
  - [26년 1월](https://blog.naver.com/bnbong/224165853527?fromRss=true&trackingCode=rss)
-
- - [안녕, 2025](https://blog.naver.com/bnbong/224132942114?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 <br>
