@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[알고리즘 리뷰] 구현](https://bnbong.com/blog/20260825-cs-algorithms-1/)
+
  - [생소하거나 헷갈리는 Java 문법들](https://bnbong.com/blog/20260627/)
 
  - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
@@ -130,8 +132,6 @@
  - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.com/blog/20260115-algo-1436/)
 
  - [[Project] FastAPI-fastkit 개발기](https://bnbong.com/blog/20260108-fastkit/)
-
- - [[Computer Science] 병렬성과 동시성의 차이](https://bnbong.com/blog/20250408-parallelism-concurrency/)
 <!-- TECH:END -->
 <br>
 <br>
