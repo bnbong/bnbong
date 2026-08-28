@@ -10,7 +10,7 @@
   <span style="font-size: 25px;"><a href="https://bnbong.com/">👉 About Me 👈</a></span>
 
   </a>
-    <a href="https://www.instagram.com/j_hyeok__lee/?hl=ko">
+    <a href="https://www.instagram.com/junnie_.bong">
     <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
     <a href="https://www.facebook.com/profile.php?id=100007712465866">
     <img src="https://img.shields.io/badge/follow_Facebook-3b5998?style=social&logo=Facebook&link=https://www.facebook.com/profile.php?id=100007712465866">
