@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[알고리즘 리뷰] DFS / BFS](https://bnbong.com/blog/20260828-cs-algorithms-2/)
+
  - [[알고리즘 리뷰] 구현](https://bnbong.com/blog/20260825-cs-algorithms-1/)
 
  - [생소하거나 헷갈리는 Java 문법들](https://bnbong.com/blog/20260627/)
@@ -130,8 +132,6 @@
  - [[Computer Network] IPv4](https://bnbong.com/blog/20250117-computer-network-3/)
 
  - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.com/blog/20260115-algo-1436/)
-
- - [[Project] FastAPI-fastkit 개발기](https://bnbong.com/blog/20260108-fastkit/)
 <!-- TECH:END -->
 <br>
 <br>
