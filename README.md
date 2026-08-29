@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[Project] Overlock 개발 기록](https://bnbong.com/blog/20260829-overlock/)
+
  - [[알고리즘 리뷰] DFS / BFS](https://bnbong.com/blog/20260828-cs-algorithms-2/)
 
  - [[알고리즘 리뷰] 구현](https://bnbong.com/blog/20260825-cs-algorithms-1/)
@@ -130,8 +132,6 @@
  - [생소하거나 헷갈리는 Python 문법들](https://bnbong.com/blog/20260427-python-difficult-syntax/)
 
  - [[Computer Network] IPv4](https://bnbong.com/blog/20250117-computer-network-3/)
-
- - [[Python] 백준 1436번 - 영화감독 숌](https://bnbong.com/blog/20260115-algo-1436/)
 <!-- TECH:END -->
 <br>
 <br>
