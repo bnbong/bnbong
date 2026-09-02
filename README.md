@@ -117,6 +117,8 @@
 </p>
 
 <!-- TECH:START -->
+ - [[알고리즘 리뷰] 이분 탐색 &amp; 이분 탐색 트리](https://bnbong.com/blog/20260902-cs-algorithms-4/)
+
  - [[알고리즘 리뷰] 정렬](https://bnbong.com/blog/20260830-cs-algorithms-3/)
 
  - [[Project] Overlock 개발 기록](https://bnbong.com/blog/20260829-overlock/)
@@ -130,8 +132,6 @@
  - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
 
  - [[Algorithm] 코딩테스트 준비를 위한 알고리즘 핵심 유형 정리&lpar;Python 예제 문제 풀이 포함&rpar;](https://bnbong.com/blog/20260514/)
-
- - [생소하거나 헷갈리는 Python 문법들](https://bnbong.com/blog/20260427-python-difficult-syntax/)
 <!-- TECH:END -->
 <br>
 <br>
