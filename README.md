@@ -18,7 +18,7 @@ Cloud &middot; DevOps &middot; Backend Developer &mdash; <b>삶을 윤택하게 
 - 관심 분야: **Backend**, **DevOps**, **Cloud**, **Game Dev**
 - **한양대학교 ERICA**, 컴퓨터학부 (2026.08 졸업)
 - **SSAFY** (삼성 청년 SW&middot;AI 아카데미) 16기, 데이터 트랙, 대전(2026.07 ~)
-- 이전 경력: **Kakao Enterprise** IaaS 기술 기획 인턴 (2024.07~08) · **K-Buddy** 백엔드 & DevOps (2023~2024) · **GiftMusic** 백엔드 (2020~2021)
+- 이전 경력: **Kakao Enterprise** IaaS 기술 기획 인턴 (2024.07 ~ 08) · **K-Buddy** 백엔드 & DevOps (2023 ~ 2024) · **GiftMusic** 백엔드 (2020 ~ 2021)
 - **대한민국 공군** 825기 정보체계관리병 병장 만기전역 (2021.04 ~ 2023.01)
 - More About Me → **[bnbong.com](https://bnbong.com/)**
 
