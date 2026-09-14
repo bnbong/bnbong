@@ -193,11 +193,6 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
 <!-- My Programming Stats -->
 <h2 align="center">Programming Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnbong&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnbong&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 <!-- Github Trophy -->
 <p align="center">
   <img src="https://stats.hyo.dev/api/github-trophies?login=bnbong" alt="GitHub Profile Trophies">
