@@ -1,93 +1,147 @@
 <!-- Header Content -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Cloud%20%26amp%3B%20Backend%20Developer&descSize=30&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=JunHyeok%20Lee&fontSize=90&fontAlign=50&fontAlignY=40&desc=Cloud%20%C2%B7%20DevOps%20%C2%B7%20Backend%20Developer&descSize=26&descAlignY=75&animation=fadeIn)
 
 <!-- About Me in one line + my contents. -->
 <p align="center">
-  <img src="./terminal.gif" alt="terminal gif">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+JunHyeok+Lee%2C+bnbong!" alt="Typing SVG" /></a>
+</p>
 
-  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+JunHyeok+Lee%2C+bnbong!" alt="Typing SVG" /></a>
+<h2 align="center">About Me</h2>
 
-  <span style="font-size: 25px;"><a href="https://bnbong.com/">👉 About Me 👈</a></span>
+<div align="center">
 
+Cloud &middot; DevOps &middot; Backend Developer &mdash; <b>삶을 윤택하게 만드는 개발자</b>
+
+</div>
+
+- 문제를 작은 나무인 기능 단위가 아닌 큰 숲인 전체 흐름 단위로 해결하는 개발자.
+- 관심 분야: **Backend**, **DevOps**, **Cloud**, **Game Dev**
+- **한양대학교 ERICA**, 컴퓨터공학부 (2026.08 졸업)
+- **SSAFY** (삼성 청년 SW&middot;AI 아카데미) 16기, 데이터 트랙, 대전(2026.07 ~)
+- 이전 경력: **Kakao Enterprise** IaaS 기술 기획 인턴 (2024.07~08) · **K-Buddy** 백엔드 & DevOps (2023~2024) · **GiftMusic** 백엔드 (2020~2021)
+- **대한민국 공군** 825기 정보체계관리병 병장 만기전역 (2021.04 ~ 2023.01)
+- More About Me → **[bnbong.com](https://bnbong.com/)**
+
+<p align="center">
+  <a href="https://bnbong.com/">
+    <img src="https://img.shields.io/badge/bnbong.com-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/>
   </a>
-    <a href="https://www.instagram.com/junnie_.bong">
-    <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
-    <a href="https://www.facebook.com/profile.php?id=100007712465866">
-    <img src="https://img.shields.io/badge/follow_Facebook-3b5998?style=social&logo=Facebook&link=https://www.facebook.com/profile.php?id=100007712465866">
-    <a href="https://blog.naver.com/bnbong/">
-    <img src="https://img.shields.io/badge/follow_Blog-2DB400?style=social&logo=Naver">
+  <a href="https://www.linkedin.com/in/bnbong/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://blog.naver.com/bnbong/">
+    <img src="https://img.shields.io/badge/Naver_Blog-2DB400?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"/>
+  </a>
+  <a href="https://www.instagram.com/junnie_.bong">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007712465866">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/bnbong/FastAPI-fastkit">
+        <img src="./assets/projects/fastapi-fastkit.png" alt="FastAPI-fastkit" width="100%"/>
+      </a>
+      <br/>
+      FastAPI 프로젝트 초기 구성을 CLI와 템플릿으로 자동화한 오픈소스 패키지 (PyPI)
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/bnbong/Wegis">
+        <img src="./assets/projects/wegis.png" alt="Wegis" width="100%"/>
+      </a>
+      <br/>
+      멀티모달 AI 기반 QR/URL 브라우저 보호형 피싱 탐지 확장 프로그램 서비스
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/bnbong/CNN-QR-phishing-detector">
+        <img src="./assets/projects/cnn-qr-phishing-detector.png" alt="CNN-QR-phishing-detector" width="100%"/>
+      </a>
+      <br/>
+      QR 모듈 격자만으로 피싱 URL을 판별할 수 있는지 통제 실험으로 검증하고 논문화 중인 연구
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/bnbong/Overlock">
+        <img src="./assets/projects/overlock.png" alt="Overlock" width="100%"/>
+      </a>
+      <br/>
+      재봉틀 노루발로 원단 위 재봉선을 박는 웹 타임어택 게임 (Godot + FastAPI 리더보드 서버)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/BNGdrasil">
+        <img src="./assets/projects/bngdrasil.png" alt="BNGdrasil" width="100%"/>
+      </a>
+      <br/>
+      개인 클라우드 플랫폼으로 운영중인 멀티 저장소 인프라 프로젝트 (FastAPI · Terraform · OCI)
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/bnbong/codemaru">
+        <img src="./assets/projects/codemaru.png" alt="codemaru" width="100%"/>
+      </a>
+      <br/>
+      GitHub 프로필 README용 개발 역량 요약 SVG 카드 생성기 (아래 Stats 섹션의 카드가 바로 이것)
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- My Stacks -->
-  <h2 align="center">💻 My Stacks 💻</h2>
-  <h3 align="center">Languages</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
-  </div>
-  <h3 align="center">Frameworks & Libraries</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/FastAPI-109989?style=flat-square&logo=FastAPI&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot">
-    <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pytest-FFFFFF?style=flat-square&logo=pytest&logoColor=rainbow"/>
-    <img src="https://img.shields.io/badge/Go-29BEB0?style=flat-square&logo=Go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-  </div>
-  <h3 align="center">Databases</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-005C84?style=flat-square&logo=MySql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  </div>
-  <h3 align="center">DevOps & Infrastructures</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Github-092E20?style=flat-square&logo=Github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-square&logo=githubactions&logoColor=367cfe">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase">
-    <img src="https://img.shields.io/badge/Fluentd-599CD0?style=flat-square&logo=fluentd&logoColor=white&labelColor=599CD0">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
-  </div>
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Languages"/>
 </p>
+
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask,pytorch" alt="Backend"/>
+</p>
+
+<p align="center">
+  <b>Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,elasticsearch" alt="Data"/>
+</p>
+
+<p align="center">
+  <b>Infra &amp; Observability</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,aws,gcp,azure,nginx,linux,prometheus,grafana" alt="Infra"/>
+</p>
+
+<p align="center">
+  <b>Etc</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,godot" alt="Etc"/>
+</p>
+
+<div align="center">
+
+REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Cloud Infrastructure &middot; EFK / ELK
+
+</div>
+
+---
 
 <!-- My Recent Blog Posts -->
-<h2 align="center">📝 My Blog Posts 📝</h2>
+<h2 align="center">Blog Posts</h2>
 
-<h3 align="center"><a href="https://blog.naver.com/bnbong">🏠 Daily</a></h3>
-
-<p>
-  <img align="left" width="40%" src="./profile_1.PNG"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://blog.naver.com/bnbong">Daily</a></h3>
+      <p align="center"><img width="80%" src="./profile_1.PNG" alt="daily"/></p>
 
 <!-- DAILY:START -->
  - [26년 8월](https://blog.naver.com/bnbong/224395254240?fromRss=true&trackingCode=rss)
@@ -107,14 +161,10 @@
  - [26년 2월](https://blog.naver.com/bnbong/224206720715?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
-<br>
-<br>
-
-<h3 align="center"><a href="https://bnbong.com/blog/">⚙️ Tech</a></h3>
-
-<p>
-  <img align="left" width="40%" src="./profile_2.JPG"/>
-</p>
+</td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://bnbong.com/blog/">Tech</a></h3>
+      <p align="center"><img width="80%" src="./profile_2.JPG" alt="tech"/></p>
 
 <!-- TECH:START -->
  - [[알고리즘 리뷰] 다익스트라](https://bnbong.com/blog/20260913-cs-algorithms-5/)
@@ -133,17 +183,24 @@
 
  - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
 <!-- TECH:END -->
-<br>
-<br>
+
+</td>
+  </tr>
+</table>
+
+---
 
 <!-- My Programming Stats -->
-<h2 align="center">🧑🏻‍💻 Programming Stats 🧑🏻‍💻</h2>
+<h2 align="center">Programming Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bnbong&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnbong&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <!-- Github Trophy -->
 <p align="center">
-  <div style="text-align:center;">
-    <img src="https://stats.hyo.dev/api/github-trophies?login=bnbong" alt="GitHub Profile Trophies">
-  </div>
+  <img src="https://stats.hyo.dev/api/github-trophies?login=bnbong" alt="GitHub Profile Trophies">
 </p>
 
 <p align="center">
@@ -154,6 +211,8 @@
 <p align="center">
   <img alt="codemaru card for bnbong" src="https://codemaru.bnbong.com/api/card.svg?github=bnbong&boj=bnbong&leetcode=bnbong&theme=dark" />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=120&section=footer)
 
 <!---
 bnbong/bnbong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
