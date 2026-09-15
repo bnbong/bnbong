@@ -171,6 +171,8 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
 
  - [[알고리즘 리뷰] 이분 탐색 &amp; 이분 탐색 트리](https://bnbong.com/blog/20260902-cs-algorithms-4/)
 
+ - [[자격증] 정보처리기사 합격 후기](https://bnbong.com/blog/20260915-engineer-information-processing-cert/)
+
  - [[알고리즘 리뷰] 정렬](https://bnbong.com/blog/20260830-cs-algorithms-3/)
 
  - [[Project] Overlock 개발 기록](https://bnbong.com/blog/20260829-overlock/)
@@ -180,8 +182,6 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
  - [[알고리즘 리뷰] 구현](https://bnbong.com/blog/20260825-cs-algorithms-1/)
 
  - [생소하거나 헷갈리는 Java 문법들](https://bnbong.com/blog/20260627/)
-
- - [[Computer Network] IPv6](https://bnbong.com/blog/20260526-computer-network-4/)
 <!-- TECH:END -->
 
 </td>
