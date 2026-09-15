@@ -204,7 +204,7 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
 </p>
 
 <p align="center">
-  <img alt="codemaru card for bnbong" src="https://codemaru.bnbong.com/api/card.svg?github=bnbong&boj=bnbong&leetcode=bnbong&theme=dark" />
+  <img alt="codemaru card for bnbong" src="https://codemaru.bnbong.com/api/card.svg?github=bnbong&boj=bnbong&leetcode=bnbong&jungol=bnbong&theme=dark" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=120&section=footer)
