@@ -144,6 +144,8 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
       <p align="center"><img width="80%" src="./profile_1.PNG" alt="daily"/></p>
 
 <!-- DAILY:START -->
+ - [26년 9월](https://blog.naver.com/bnbong/224427635498?fromRss=true&trackingCode=rss)
+
  - [26년 8월](https://blog.naver.com/bnbong/224395254240?fromRss=true&trackingCode=rss)
 
  - [조Love](https://blog.naver.com/bnbong/224385787937?fromRss=true&trackingCode=rss)
@@ -157,8 +159,6 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
  - [26년 4월](https://blog.naver.com/bnbong/224271005370?fromRss=true&trackingCode=rss)
 
  - [26년 3월](https://blog.naver.com/bnbong/224237404073?fromRss=true&trackingCode=rss)
-
- - [26년 2월](https://blog.naver.com/bnbong/224206720715?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 </td>
