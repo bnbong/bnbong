@@ -167,6 +167,8 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
       <p align="center"><img width="80%" src="./profile_2.JPG" alt="tech"/></p>
 
 <!-- TECH:START -->
+ - [[Python] Python 비동기 DB 드라이버에 관하여](https://bnbong.com/blog/20261014-python-async-db/)
+
  - [[Project] Overlock v2.3.1 업데이트와 itch.io 배포](https://bnbong.com/blog/20261006-overlock-v2/)
 
  - [[자격증] 정보처리기사 합격 후기](https://bnbong.com/blog/20260915-engineer-information-processing-cert/)
@@ -180,8 +182,6 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
  - [[Project] Overlock 개발 기록](https://bnbong.com/blog/20260829-overlock/)
 
  - [[알고리즘 리뷰] DFS / BFS](https://bnbong.com/blog/20260828-cs-algorithms-2/)
-
- - [[알고리즘 리뷰] 구현](https://bnbong.com/blog/20260825-cs-algorithms-1/)
 <!-- TECH:END -->
 
 </td>
