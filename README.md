@@ -167,6 +167,8 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
       <p align="center"><img width="80%" src="./profile_2.JPG" alt="tech"/></p>
 
 <!-- TECH:START -->
+ - [[Python] SQLAlchemy AsyncSession에서 MissingGreenlet 에러가 반복되는 이유](https://bnbong.com/blog/20261015-sqlalchemy-missing-greenlet/)
+
  - [[Python] Python 비동기 DB 드라이버에 관하여](https://bnbong.com/blog/20261014-python-async-db/)
 
  - [[Project] Overlock v2.3.1 업데이트와 itch.io 배포](https://bnbong.com/blog/20261006-overlock-v2/)
@@ -180,8 +182,6 @@ REST &middot; WebSocket &middot; SQLAlchemy &middot; MariaDB &middot; Oracle Clo
  - [[알고리즘 리뷰] 정렬](https://bnbong.com/blog/20260830-cs-algorithms-3/)
 
  - [[Project] Overlock 개발 기록](https://bnbong.com/blog/20260829-overlock/)
-
- - [[알고리즘 리뷰] DFS / BFS](https://bnbong.com/blog/20260828-cs-algorithms-2/)
 <!-- TECH:END -->
 
 </td>
