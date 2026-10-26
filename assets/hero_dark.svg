@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="JunHyeok Lee (bnbong) - Cloud, DevOps, Backend Developer">
+<title>JunHyeok Lee (bnbong) - Cloud, DevOps, Backend Developer</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;}.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;}</style>
+<defs><clipPath id="hc"><rect width="1200" height="320" rx="16"/></clipPath><linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161B22"/><stop offset="1" stop-color="#151B2E"/></linearGradient><linearGradient id="hacc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#60A5FA" stop-opacity="0.22"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient><radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.20"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#30363D" stroke-width="0.6" opacity="0.55"/></pattern><linearGradient id="gfade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0.15"/><stop offset="0.55" stop-color="#fff" stop-opacity="0.6"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient><mask id="gmask"><rect width="1200" height="320" fill="url(#gfade)"/></mask></defs>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="#0D1117" stroke="#30363D"/>
+<g clip-path="url(#hc)">
+  <rect width="1200" height="320" fill="url(#hbg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" mask="url(#gmask)"/>
+  <circle cx="1040" cy="60" r="220" fill="url(#glow2)"/>
+  <circle cx="160" cy="300" r="240" fill="url(#glow1)"/>
+  <g stroke="#8B949E" stroke-width="1" opacity="0.45"><line x1="790" y1="92" x2="858" y2="62"/><line x1="858" y1="62" x2="930" y2="110"/><line x1="930" y1="110" x2="1010" y2="74"/><line x1="1010" y1="74" x2="1086" y2="128"/><line x1="1086" y1="128" x2="1132" y2="66"/><line x1="1010" y1="74" x2="1132" y2="66"/><line x1="930" y1="110" x2="884" y2="190"/><line x1="884" y1="190" x2="968" y2="226"/><line x1="968" y1="226" x2="1052" y2="206"/><line x1="1052" y1="206" x2="1086" y2="128"/><line x1="1052" y1="206" x2="1120" y2="252"/><line x1="884" y1="190" x2="820" y2="262"/></g>
+  <g><circle cx="790" cy="92" r="2.8" fill="#60A5FA"></circle><circle cx="858" cy="62" r="2.8" fill="#A78BFA"></circle><circle cx="930" cy="110" r="9" fill="#60A5FA" opacity="0.15"/><circle cx="930" cy="110" r="4.2" fill="#60A5FA"><animate attributeName="opacity" values="1;0.25;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle><circle cx="1010" cy="74" r="2.8" fill="#60A5FA"></circle><circle cx="1086" cy="128" r="2.8" fill="#A78BFA"></circle><circle cx="1132" cy="66" r="9" fill="#FBBF24" opacity="0.15"/><circle cx="1132" cy="66" r="4.2" fill="#FBBF24"><animate attributeName="opacity" values="1;0.25;1" dur="4.2s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="884" cy="190" r="2.8" fill="#60A5FA"></circle><circle cx="968" cy="226" r="2.8" fill="#A78BFA"></circle><circle cx="1052" cy="206" r="9" fill="#60A5FA" opacity="0.15"/><circle cx="1052" cy="206" r="4.2" fill="#60A5FA"><animate attributeName="opacity" values="1;0.25;1" dur="3.2s" begin="2.1s" repeatCount="indefinite"/></circle><circle cx="1120" cy="252" r="2.8" fill="#FBBF24"></circle><circle cx="820" cy="262" r="2.8" fill="#A78BFA"></circle></g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#30363D"/>
+<g transform="translate(72 0)">
+  <text x="0" y="76" class="mono" font-size="15" fill="#60A5FA" letter-spacing="2">HELLO, WORLD — I'M</text>
+  <text x="-3" y="150" font-size="64" font-weight="800" fill="#E6EDF3" letter-spacing="-1">JunHyeok Lee</text>
+  <rect x="0" y="168" width="140" height="5" rx="2.5" fill="url(#hacc)">
+    <animate attributeName="width" from="0" to="140" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="0" y="208" class="mono" font-size="20" font-weight="600" fill="#A78BFA">@bnbong</text>
+  <text x="0" y="246" font-size="22" font-weight="600" fill="#E6EDF3">Cloud · DevOps · Backend Developer</text>
+  <text x="0" y="280" font-size="18" fill="#8B949E">삶을 윤택하게 만드는 개발자</text>
+</g>
+</svg>
