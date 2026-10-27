@@ -225,6 +225,8 @@
       <p align="center"><img width="80%" src="./profile_2.JPG" alt="tech"/></p>
 
 <!-- TECH:START -->
+ - [[Project] VastHorizon 개발 기록](https://bnbong.com/blog/20261027-vasthorizon/)
+
  - [[Talk] SSAFY에서 발표한 AI 오케스트레이션 흐름과 한국 AI 전망](https://bnbong.com/blog/20261025-ssafy-ai-orchestration-talk/)
 
  - [[Python] SQLAlchemy AsyncSession에서 MissingGreenlet 에러가 반복되는 이유](https://bnbong.com/blog/20261015-sqlalchemy-missing-greenlet/)
@@ -238,8 +240,6 @@
  - [[알고리즘 리뷰] 다익스트라](https://bnbong.com/blog/20260913-cs-algorithms-5/)
 
  - [[알고리즘 리뷰] 이분 탐색 &amp; 이분 탐색 트리](https://bnbong.com/blog/20260902-cs-algorithms-4/)
-
- - [[알고리즘 리뷰] 정렬](https://bnbong.com/blog/20260830-cs-algorithms-3/)
 <!-- TECH:END -->
 
 </td>
