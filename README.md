@@ -202,6 +202,8 @@
       <p align="center"><img width="80%" src="./profile_1.PNG" alt="daily"/></p>
 
 <!-- DAILY:START -->
+ - [26년 10월](https://blog.naver.com/bnbong/224458707416?fromRss=true&trackingCode=rss)
+
  - [26년 9월](https://blog.naver.com/bnbong/224427635498?fromRss=true&trackingCode=rss)
 
  - [26년 8월](https://blog.naver.com/bnbong/224395254240?fromRss=true&trackingCode=rss)
@@ -215,8 +217,6 @@
  - [26년 5월](https://blog.naver.com/bnbong/224301894211?fromRss=true&trackingCode=rss)
 
  - [26년 4월](https://blog.naver.com/bnbong/224271005370?fromRss=true&trackingCode=rss)
-
- - [26년 3월](https://blog.naver.com/bnbong/224237404073?fromRss=true&trackingCode=rss)
 <!-- DAILY:END -->
 
 </td>
