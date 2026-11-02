@@ -225,6 +225,8 @@
       <p align="center"><img width="80%" src="./profile_2.JPG" alt="tech"/></p>
 
 <!-- TECH:START -->
+ - [[Backend] N+1 문제: 목록 하나 조회했는데 쿼리가 수십 번 나가는 이유](https://bnbong.com/blog/20261103-n-plus-one/)
+
  - [[Project] VastHorizon 개발 기록](https://bnbong.com/blog/20261027-vasthorizon/)
 
  - [[Talk] SSAFY에서 발표한 AI 오케스트레이션 흐름과 한국 AI 전망](https://bnbong.com/blog/20261025-ssafy-ai-orchestration-talk/)
@@ -238,8 +240,6 @@
  - [[자격증] 정보처리기사 합격 후기](https://bnbong.com/blog/20260915-engineer-information-processing-cert/)
 
  - [[알고리즘 리뷰] 다익스트라](https://bnbong.com/blog/20260913-cs-algorithms-5/)
-
- - [[알고리즘 리뷰] 이분 탐색 &amp; 이분 탐색 트리](https://bnbong.com/blog/20260902-cs-algorithms-4/)
 <!-- TECH:END -->
 
 </td>
