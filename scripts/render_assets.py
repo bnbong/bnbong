@@ -16,7 +16,9 @@ README.md through <picture> with prefers-color-scheme sources.
 
 from __future__ import annotations
 
+import math
 import os
+import random
 from xml.sax.saxutils import escape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -27,42 +29,127 @@ FONT_STACK = (
     "'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif"
 )
 MONO_STACK = "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+# Myeongjo-style headings (VastHorizon brand). Korean serif faces come before the
+# Gothic fallback so Hangul stays serif wherever a Myeongjo font is installed.
+SERIF_STACK = (
+    "'Noto Serif KR', 'AppleMyungjo', 'Apple Myungjo', 'Nanum Myeongjo', 'Batang', "
+    "'Apple SD Gothic Neo', Georgia, 'Times New Roman', serif"
+)
+# Latin-only headings ("JunHyeok Lee", section titles): a Latin serif first so the
+# browser never picks the Latin glyphs of a Korean Gothic face.
+LATIN_SERIF_STACK = "Georgia, 'Times New Roman', 'Noto Serif', 'Noto Serif KR', 'AppleMyungjo', serif"
 
-# Design tokens: same code, two palettes.
+# Design tokens: same code, two palettes, both drawn from the VastHorizon brand
+#   navy #272B61 · blue violet #5960A1 · lavender #8C68AC · teal mist #63A9C9
+#   apricot ribbon #F3DAD5 · paper #FFF9F3
+# dark = night sky, light = paper. Accents a1..a4 are the only icon/chip colors:
+#   a1 navy/blue violet, a2 lavender, a3 apricot (point), a4 teal.
+# "<key>_text" variants are used when an accent colors text (contrast on paper).
 THEMES = {
     "light": {
-        "bg": "#FFFFFF",
-        "bg2": "#F8FAFC",
-        "tint": "#EEF2FF",
-        "border": "#E2E8F0",
-        "grid": "#CBD5E1",
-        "text": "#0F172A",
-        "muted": "#64748B",
-        "a1": "#2563EB",
-        "a2": "#7C3AED",
-        "a3": "#F59E0B",
-        "on_accent": "#FFFFFF",
-        "chip_alpha": "0.08",
-        "chip_stroke_alpha": "0.30",
+        "bg": "#FFF9F3",
+        "bg2": "#FFFFFF",
+        "tint": "#F2EAF5",
+        "sky1": "#FFF9F3",
+        "sky2": "#F8F0F4",
+        "sky3": "#EFE6F4",
+        "fog": "#63A9C9",
+        "fog_alpha": "0.10",
+        "haze": "#8C68AC",
+        "haze_alpha": "0.12",
+        "border": "#E6DCEB",
+        "grid": "#8C68AC",
+        "line": "#8C68AC",
+        "line_alpha": "0.40",
+        "text": "#272B61",
+        "muted": "#5960A1",
+        "kicker": "#8C68AC",
+        "handle": "#5960A1",
+        "a1": "#272B61",
+        "a2": "#8C68AC",
+        "a3": "#E0907A",
+        "a3_text": "#B8664C",
+        "a4": "#3D88AB",
+        "on_accent": "#FFF9F3",
+        "tile1": "#272B61",
+        "tile2": "#8C68AC",
+        "wave1": "#8C68AC",
+        "wave2": "#63A9C9",
+        "wave_alpha1": "0.14",
+        "wave_alpha2": "0.24",
+        "node_fill": "#FFF9F3",
+        "panel": "#FFFFFF",
+        "panel_alpha": "0.72",
+        "panel_stroke": "#8C68AC",
+        "panel_stroke_alpha": "0.28",
+        "ribbon": "#F3DAD5",
+        "ribbon_text": "#272B61",
+        "ribbon_point": "#C97B62",
+        "star": "#272B61",
+        "star_point": "#E0907A",
+        "star_dust": "#5960A1",
+        "star_dust_alpha": "0.30",
+        "betelgeuse": "#E07446",
+        "rigel": "#3D88AB",
+        "chip_alpha": "0.10",
+        "chip_stroke_alpha": "0.40",
         "grid_alpha": "0.45",
     },
     "dark": {
-        "bg": "#0D1117",
-        "bg2": "#161B22",
-        "tint": "#151B2E",
-        "border": "#30363D",
-        "grid": "#30363D",
-        "text": "#E6EDF3",
-        "muted": "#8B949E",
-        "a1": "#60A5FA",
-        "a2": "#A78BFA",
-        "a3": "#FBBF24",
-        "on_accent": "#0D1117",
-        "chip_alpha": "0.12",
-        "chip_stroke_alpha": "0.38",
+        "bg": "#272B61",
+        "bg2": "#2F3470",
+        "tint": "#3A3F80",
+        "sky1": "#272B61",
+        "sky2": "#5960A1",
+        "sky3": "#8C68AC",
+        "fog": "#63A9C9",
+        "fog_alpha": "0.38",
+        "haze": "#B98AD6",
+        "haze_alpha": "0.30",
+        "border": "#5960A1",
+        "grid": "#D9CFF0",
+        "line": "#E4DCF5",
+        "line_alpha": "0.42",
+        "text": "#FFF9F3",
+        "muted": "#D6CBEC",
+        "kicker": "#F7C9B8",
+        "handle": "#DCCFF2",
+        "a1": "#AEB3EC",
+        "a2": "#D2B3EC",
+        "a3": "#F7C9B8",
+        "a4": "#8FD0EA",
+        "on_accent": "#FFF9F3",
+        "tile1": "#5960A1",
+        "tile2": "#8C68AC",
+        "wave1": "#5960A1",
+        "wave2": "#8C68AC",
+        "wave_alpha1": "0.55",
+        "wave_alpha2": "0.9",
+        "node_fill": "#272B61",
+        "panel": "#272B61",
+        "panel_alpha": "0.55",
+        "panel_stroke": "#E4DCF5",
+        "panel_stroke_alpha": "0.22",
+        "ribbon": "#F3DAD5",
+        "ribbon_text": "#272B61",
+        "ribbon_point": "#C97B62",
+        "star": "#FFF9F3",
+        "star_point": "#F7C9B8",
+        "star_dust": "#FFF9F3",
+        "star_dust_alpha": "0.55",
+        "betelgeuse": "#FFAE85",
+        "rigel": "#DCEBFF",
+        "chip_alpha": "0.16",
+        "chip_stroke_alpha": "0.45",
         "grid_alpha": "0.55",
     },
 }
+
+
+def acc_text(t: dict, key: str) -> str:
+    """Accent color to use for text (darker variant on paper when defined)."""
+    return t.get(f"{key}_text", t[key])
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -94,6 +181,8 @@ def svg_doc(w: int, h: int, title: str, body: str, defs: str = "", css: str = ""
     style = (
         f"text{{font-family:{FONT_STACK};}}"
         f".mono{{font-family:{MONO_STACK};}}"
+        f".serif{{font-family:{SERIF_STACK};}}"
+        f".serif-latin{{font-family:{LATIN_SERIF_STACK};}}"
         f"{css}"
     )
     return (
@@ -147,91 +236,201 @@ def icon(name: str, cx: float, cy: float, size: float, color: str, sw: float = 2
     )
 
 
-def accent_gradient(gid: str, t: dict, x2: str = "1", y2: str = "1") -> str:
+def accent_gradient(gid: str, t: dict, x2: str = "1", y2: str = "1", k1: str = "a1", k2: str = "a2") -> str:
     return (
         f'<linearGradient id="{gid}" x1="0" y1="0" x2="{x2}" y2="{y2}">'
-        f'<stop offset="0" stop-color="{t["a1"]}"/><stop offset="1" stop-color="{t["a2"]}"/>'
+        f'<stop offset="0" stop-color="{t[k1]}"/><stop offset="1" stop-color="{t[k2]}"/>'
         f"</linearGradient>"
     )
+
+
+def sky_defs(prefix: str, t: dict, x2: str = "1", y2: str = "0.35") -> str:
+    """Night-sky (dark) / paper (light) gradient plus teal-mist and lavender-haze glows."""
+    return (
+        f'<linearGradient id="{prefix}sky" x1="0" y1="0" x2="{x2}" y2="{y2}">'
+        f'<stop offset="0" stop-color="{t["sky1"]}"/><stop offset="0.55" stop-color="{t["sky2"]}"/>'
+        f'<stop offset="1" stop-color="{t["sky3"]}"/></linearGradient>'
+        f'<radialGradient id="{prefix}fog" cx="0.5" cy="0.5" r="0.5">'
+        f'<stop offset="0" stop-color="{t["fog"]}" stop-opacity="{t["fog_alpha"]}"/>'
+        f'<stop offset="1" stop-color="{t["fog"]}" stop-opacity="0"/></radialGradient>'
+        f'<radialGradient id="{prefix}haze" cx="0.5" cy="0.5" r="0.5">'
+        f'<stop offset="0" stop-color="{t["haze"]}" stop-opacity="{t["haze_alpha"]}"/>'
+        f'<stop offset="1" stop-color="{t["haze"]}" stop-opacity="0"/></radialGradient>'
+    )
+
+
+def sparkle(cx: float, cy: float, r: float, color: str, extra: str = "", inner: str = "") -> str:
+    """Four-pointed star (the brand's filled apricot star)."""
+    k = r * 0.22
+    d = (
+        f"M{cx:.1f} {cy - r:.1f}Q{cx + k:.1f} {cy - k:.1f} {cx + r:.1f} {cy:.1f}"
+        f"Q{cx + k:.1f} {cy + k:.1f} {cx:.1f} {cy + r:.1f}"
+        f"Q{cx - k:.1f} {cy + k:.1f} {cx - r:.1f} {cy:.1f}"
+        f"Q{cx - k:.1f} {cy - k:.1f} {cx:.1f} {cy - r:.1f}Z"
+    )
+    return f'<path d="{d}" fill="{color}"{extra}>{inner}</path>'
+
+
+def dotted_ring(cx: float, cy: float, r: float, t: dict, opacity: float = 0.7) -> str:
+    """Empty dashed circle: a celestial object not met yet."""
+    return (
+        f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="{r}" fill="none" stroke="{t["line"]}" '
+        f'stroke-width="1" stroke-dasharray="2 2.4" opacity="{opacity}"/>'
+    )
+
+
+def star_dust(rng: random.Random, n: int, x0: float, y0: float, x1: float, y1: float, t: dict) -> str:
+    out = []
+    base = float(t["star_dust_alpha"])
+    for _ in range(n):
+        x, y = rng.uniform(x0, x1), rng.uniform(y0, y1)
+        r = rng.choice((0.7, 0.9, 1.1, 1.4))
+        out.append(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="{r}" opacity="{base * rng.uniform(0.45, 1):.2f}"/>')
+    return f'<g fill="{t["star_dust"]}">{"".join(out)}</g>'
 
 
 # ---------------------------------------------------------------------------
 # Hero
 # ---------------------------------------------------------------------------
 
+# Orion, J2000 (RA hours, RA minutes, Dec degrees), size class 1 = brightest.
+ORION = {
+    "Betelgeuse": (5, 55.2, 7.41, 1),
+    "Rigel": (5, 14.5, -8.20, 1),
+    "Bellatrix": (5, 25.1, 6.35, 2),
+    "Alnilam": (5, 36.2, -1.20, 2),
+    "Alnitak": (5, 40.8, -1.94, 2),
+    "Mintaka": (5, 32.0, -0.30, 3),
+    "Saiph": (5, 47.8, -9.67, 3),
+    "Meissa": (5, 35.1, 9.93, 3),
+}
+ORION_NEBULA = (5, 35.3, -5.39)  # M42, below the belt
+ORION_EDGES = [
+    ("Meissa", "Betelgeuse"), ("Meissa", "Bellatrix"),
+    ("Betelgeuse", "Alnitak"), ("Bellatrix", "Mintaka"),
+    ("Mintaka", "Alnilam"), ("Alnilam", "Alnitak"),
+    ("Alnitak", "Saiph"), ("Mintaka", "Rigel"), ("Rigel", "Saiph"),
+]
+ORION_APRICOT = {"Bellatrix", "Mintaka", "Alnilam", "Alnitak"}
+ORION_TWINKLE = {"Betelgeuse": ("3.8s", "0s"), "Rigel": ("4.4s", "1.3s"), "Alnilam": ("3.2s", "2.2s")}
+
+
+def orion_projector(box: tuple[float, float, float, float]):
+    """Return f(ra_h, ra_m, dec) -> (x, y) fitting Orion into box=(x0, y0, w, h).
+
+    Sky as seen from the ground: RA grows to the left, Dec grows upward. RA is
+    converted to degrees (1 min = 15') and scaled by cos(mean Dec) so both axes
+    share one angular scale; then one uniform px/deg factor fits the box.
+    """
+    pts = list(ORION.values())
+    dec0 = math.radians(sum(p[2] for p in pts) / len(pts))
+
+    def ang(ra_h: float, ra_m: float, dec: float) -> tuple[float, float]:
+        ra_deg = (ra_h * 60 + ra_m) * 0.25
+        return -ra_deg * math.cos(dec0), -dec
+
+    raw = [ang(*p[:3]) for p in pts]
+    minx, maxx = min(p[0] for p in raw), max(p[0] for p in raw)
+    miny, maxy = min(p[1] for p in raw), max(p[1] for p in raw)
+    x0, y0, bw, bh = box
+    scale = min(bw / (maxx - minx), bh / (maxy - miny))
+    ox = x0 + (bw - (maxx - minx) * scale) / 2
+    oy = y0 + (bh - (maxy - miny) * scale) / 2
+
+    def project(ra_h: float, ra_m: float, dec: float) -> tuple[float, float]:
+        ax, ay = ang(ra_h, ra_m, dec)
+        return ox + (ax - minx) * scale, oy + (ay - miny) * scale
+
+    return project
+
+
+def render_orion(t: dict, box: tuple[float, float, float, float]) -> str:
+    project = orion_projector(box)
+    pos = {name: project(*v[:3]) for name, v in ORION.items()}
+    xs = [p[0] for p in pos.values()]
+    cx, cy = (min(xs) + max(xs)) / 2, box[1] + box[3] / 2
+
+    parts = [
+        # faint orbit arcs around the figure, as on the VastHorizon cover
+        f'<g fill="none" stroke="{t["line"]}" stroke-width="0.8" opacity="0.32">'
+        f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="148"/>'
+        f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="104" stroke-dasharray="2 4"/></g>'
+    ]
+    lines = "".join(
+        f'<line x1="{pos[a][0]:.1f}" y1="{pos[a][1]:.1f}" x2="{pos[b][0]:.1f}" y2="{pos[b][1]:.1f}"/>'
+        for a, b in ORION_EDGES
+    )
+    parts.append(f'<g stroke="{t["line"]}" stroke-width="1" opacity="{t["line_alpha"]}">{lines}</g>')
+
+    nx, ny = project(*ORION_NEBULA)
+    parts.append(dotted_ring(nx, ny, 4.5, t, 0.85))
+    # objects not met yet
+    for dx, dy, r in ((118, -62, 5), (-112, 30, 4.5), (96, 78, 4)):
+        parts.append(dotted_ring(cx + dx, cy + dy, r, t))
+
+    for name, (_, _, _, cls) in ORION.items():
+        x, y = pos[name]
+        color = t.get(name.lower(), t["star_point"] if name in ORION_APRICOT else t["star"])
+        anim = ""
+        if name in ORION_TWINKLE:
+            dur, begin = ORION_TWINKLE[name]
+            anim = (
+                f'<animate attributeName="opacity" values="1;0.35;1" dur="{dur}" begin="{begin}" '
+                f'repeatCount="indefinite"/>'
+            )
+        if cls == 1:
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="10" fill="{color}" opacity="0.16"/>')
+            parts.append(sparkle(x, y, 9, color, inner=anim))
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="2.4" fill="{color}"/>')
+        else:
+            r = 3.2 if cls == 2 else 2.4
+            if anim:
+                parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="7" fill="{color}" opacity="0.16"/>')
+            parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" fill="{color}">{anim}</circle>')
+
+    bx, by = pos["Bellatrix"]
+    parts.append(
+        f'<text x="{bx + 26:.0f}" y="{by - 34:.0f}" class="serif-latin" font-size="13" font-style="italic" '
+        f'fill="{t["muted"]}" letter-spacing="4" opacity="0.85">orion</text>'
+    )
+    return "".join(parts)
+
 
 def render_hero(t: dict) -> str:
     w, h = 1200, 320
+    ribbon_h = 36
     defs = (
         clip_round("hc", w, h)
-        + f'<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">'
-        f'<stop offset="0" stop-color="{t["bg2"]}"/><stop offset="1" stop-color="{t["tint"]}"/></linearGradient>'
-        + accent_gradient("hacc", t, "1", "0")
-        + f'<radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">'
-        f'<stop offset="0" stop-color="{t["a1"]}" stop-opacity="0.22"/>'
-        f'<stop offset="1" stop-color="{t["a1"]}" stop-opacity="0"/></radialGradient>'
-        + f'<radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">'
-        f'<stop offset="0" stop-color="{t["a2"]}" stop-opacity="0.20"/>'
-        f'<stop offset="1" stop-color="{t["a2"]}" stop-opacity="0"/></radialGradient>'
-        + f'<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">'
-        f'<path d="M40 0H0V40" fill="none" stroke="{t["grid"]}" stroke-width="0.6" opacity="{t["grid_alpha"]}"/></pattern>'
-        + f'<linearGradient id="gfade" x1="0" y1="0" x2="1" y2="0">'
-        f'<stop offset="0" stop-color="#fff" stop-opacity="0.15"/><stop offset="0.55" stop-color="#fff" stop-opacity="0.6"/>'
-        f'<stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>'
-        + f'<mask id="gmask"><rect width="{w}" height="{h}" fill="url(#gfade)"/></mask>'
+        + sky_defs("h", t)
+        + accent_gradient("hacc", t, "1", "0", "a3", "a2")
     )
-
-    # Constellation on the right side
-    stars = [
-        (790, 92), (858, 62), (930, 110), (1010, 74), (1086, 128),
-        (1132, 66), (884, 190), (968, 226), (1052, 206), (1120, 252), (820, 262),
-    ]
-    edges = [(0, 1), (1, 2), (2, 3), (3, 4), (4, 5), (3, 5), (2, 6), (6, 7), (7, 8), (8, 4), (8, 9), (6, 10)]
-    lines = "".join(
-        f'<line x1="{stars[a][0]}" y1="{stars[a][1]}" x2="{stars[b][0]}" y2="{stars[b][1]}"/>'
-        for a, b in edges
-    )
-    dots = []
-    twinkle = {2: ("3.6s", "0s"), 5: ("4.2s", "1.2s"), 8: ("3.2s", "2.1s")}
-    for i, (x, y) in enumerate(stars):
-        color = t["a2"] if i % 3 == 1 else (t["a3"] if i in (5, 9) else t["a1"])
-        r = 4.2 if i in twinkle else 2.8
-        anim = ""
-        if i in twinkle:
-            dur, begin = twinkle[i]
-            anim = (
-                f'<animate attributeName="opacity" values="1;0.25;1" dur="{dur}" begin="{begin}" '
-                f'repeatCount="indefinite"/>'
-            )
-            dots.append(f'<circle cx="{x}" cy="{y}" r="9" fill="{color}" opacity="0.15"/>')
-        dots.append(f'<circle cx="{x}" cy="{y}" r="{r}" fill="{color}">{anim}</circle>')
-
+    rng = random.Random(20260)
     name = "JunHyeok Lee"
-    name_size = 64
-    name_w = text_width(name, name_size, bold=True)
-    underline_w = 140  # fixed: real glyph widths are unknown
-    del name_w
+    name_size = 66
+    underline_w = 132  # fixed: real glyph widths are unknown
+    tagline = "삶을 윤택하게 만드는 개발자"
 
     body = f"""{card_bg(w, h, t)}
 <g clip-path="url(#hc)">
-  <rect width="{w}" height="{h}" fill="url(#hbg)"/>
-  <rect width="{w}" height="{h}" fill="url(#grid)" mask="url(#gmask)"/>
-  <circle cx="1040" cy="60" r="220" fill="url(#glow2)"/>
-  <circle cx="160" cy="300" r="240" fill="url(#glow1)"/>
-  <g stroke="{t["muted"]}" stroke-width="1" opacity="0.45">{lines}</g>
-  <g>{"".join(dots)}</g>
+  <rect width="{w}" height="{h}" fill="url(#hsky)"/>
+  <circle cx="230" cy="330" r="300" fill="url(#hfog)"/>
+  <circle cx="1080" cy="80" r="280" fill="url(#hhaze)"/>
+  {star_dust(rng, 54, 12, 10, w - 12, h - ribbon_h - 6, t)}
+  {render_orion(t, (800, 24, 380, 248))}
+  <rect x="0" y="{h - ribbon_h}" width="{w}" height="{ribbon_h}" fill="{t["ribbon"]}"/>
 </g>
 <rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="{t["border"]}"/>
 <g transform="translate(72 0)">
-  <text x="0" y="76" class="mono" font-size="15" fill="{t["a1"]}" letter-spacing="2">HELLO, WORLD — I'M</text>
-  <text x="-3" y="150" font-size="{name_size}" font-weight="800" fill="{t["text"]}" letter-spacing="-1">{esc(name)}</text>
-  <rect x="0" y="168" width="{underline_w:.0f}" height="5" rx="2.5" fill="url(#hacc)">
+  <text x="0" y="66" class="mono" font-size="14" fill="{t["kicker"]}" letter-spacing="2.5">HELLO, WORLD — I'M</text>
+  <text x="-3" y="140" class="serif-latin" font-size="{name_size}" font-weight="400" fill="{t["text"]}" letter-spacing="-0.5">{esc(name)}</text>
+  <rect x="0" y="160" width="{underline_w:.0f}" height="3" rx="1.5" fill="url(#hacc)">
     <animate attributeName="width" from="0" to="{underline_w:.0f}" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="0" y="208" class="mono" font-size="20" font-weight="600" fill="{t["a2"]}">@bnbong</text>
-  <text x="0" y="246" font-size="22" font-weight="600" fill="{t["text"]}">Cloud · DevOps · Backend Developer</text>
-  <text x="0" y="280" font-size="18" fill="{t["muted"]}">삶을 윤택하게 만드는 개발자</text>
-</g>"""
+  <text x="0" y="200" class="mono" font-size="19" font-weight="600" fill="{t["handle"]}">@bnbong</text>
+  <text x="0" y="240" font-size="22" font-weight="600" fill="{t["text"]}">Cloud · DevOps · Backend Developer</text>
+</g>
+{sparkle(w - 40 - text_width(tagline, 16) - 0.5 * len(tagline) - 22, h - 18, 6, t["ribbon_point"])}
+<text x="{w - 40}" y="{h - 12}" text-anchor="end" class="serif" font-size="16" fill="{t["ribbon_text"]}" letter-spacing="0.5">{esc(tagline)}</text>"""
     return svg_doc(w, h, "JunHyeok Lee (bnbong) - Cloud, DevOps, Backend Developer", body, defs)
 
 
@@ -248,6 +447,7 @@ JOURNEY = [
     ("grad", "2026.08", "한양대학교 ERICA", ["컴퓨터학부 졸업"]),
 ]
 CURRENT_INDEX = 4  # node that gets the subtle "now" pulse
+JOURNEY_ACCENTS = ["a2", "a4", "a1", "a2", "a3", "a4"]  # a3 (apricot) = current
 
 
 def render_journey(t: dict) -> str:
@@ -256,40 +456,44 @@ def render_journey(t: dict) -> str:
     margin = 110
     step = (w - 2 * margin) / (n - 1)  # 196px per column
     line_y = 104
-    defs = clip_round("jc", w, h) + accent_gradient("jline", t, "1", "0") + accent_gradient("jnode", t)
-    accents = [t["a1"], t["a2"], t["a1"], t["a2"], t["a3"], t["a1"]]
+    defs = clip_round("jc", w, h) + sky_defs("j", t) + accent_gradient("jline", t, "1", "0", "a2", "a3")
 
-    parts = [card_bg(w, h, t)]
-    parts.append(
+    rng = random.Random(7)
+    parts = [
+        card_bg(w, h, t),
+        f'<g clip-path="url(#jc)"><rect width="{w}" height="{h}" fill="url(#jsky)"/>'
+        f'<circle cx="120" cy="270" r="260" fill="url(#jfog)"/>'
+        f'<circle cx="1100" cy="20" r="240" fill="url(#jhaze)"/>'
+        f'{star_dust(rng, 26, 12, 8, w - 12, h - 8, t)}</g>',
+        f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="{t["border"]}"/>',
         f'<text x="32" y="42" class="mono" font-size="13" fill="{t["muted"]}" letter-spacing="2">JOURNEY</text>'
-        f'<text x="{w - 32}" y="42" class="mono" font-size="13" fill="{t["muted"]}" text-anchor="end" letter-spacing="1">2020 → NOW</text>'
-    )
-    # base line + gradient progress line
-    parts.append(
-        f'<line x1="{margin}" y1="{line_y}" x2="{w - margin}" y2="{line_y}" stroke="{t["border"]}" stroke-width="4" stroke-linecap="round"/>'
+        f'<text x="{w - 32}" y="42" class="mono" font-size="13" fill="{t["muted"]}" text-anchor="end" letter-spacing="1">2020 → NOW</text>',
+        # base line + gradient progress line
+        f'<line x1="{margin}" y1="{line_y}" x2="{w - margin}" y2="{line_y}" stroke="{t["line"]}" stroke-opacity="{t["line_alpha"]}" stroke-width="1.5"/>'
         f'<line x1="{margin}" y1="{line_y}" x2="{w - margin}" y2="{line_y}" stroke="url(#jline)" stroke-width="3" '
-        f'stroke-linecap="round" stroke-dasharray="2 10" opacity="0.9">'
-        f'<animate attributeName="stroke-dashoffset" from="24" to="0" dur="2.4s" repeatCount="indefinite"/></line>'
-    )
+        f'stroke-linecap="round" stroke-dasharray="2 10" opacity="0.95">'
+        f'<animate attributeName="stroke-dashoffset" from="24" to="0" dur="2.4s" repeatCount="indefinite"/></line>',
+    ]
     for i, (ic, period, title, subs) in enumerate(JOURNEY):
         cx = margin + i * step
-        acc = accents[i]
+        key = JOURNEY_ACCENTS[i]
+        acc = t[key]
         # sanity: keep text inside its column
         for s, size, bold in [(period, 13, True), (title, 16, True)] + [(x, 13, False) for x in subs]:
             assert text_width(s, size, bold) < step - 8, f"journey text too wide: {s}"
         pulse = ""
         if i == CURRENT_INDEX:
             pulse = (
-                f'<circle cx="{cx:.0f}" cy="{line_y}" r="30" fill="none" stroke="{acc}" stroke-width="2">'
+                f'<circle cx="{cx:.0f}" cy="{line_y}" r="30" fill="none" stroke="{t["a3"]}" stroke-width="2">'
                 f'<animate attributeName="r" values="30;40" dur="2.6s" repeatCount="indefinite"/>'
-                f'<animate attributeName="opacity" values="0.6;0" dur="2.6s" repeatCount="indefinite"/></circle>'
+                f'<animate attributeName="opacity" values="0.7;0" dur="2.6s" repeatCount="indefinite"/></circle>'
             )
         parts.append(
             f"<g>{pulse}"
-            f'<circle cx="{cx:.0f}" cy="{line_y}" r="30" fill="{t["bg"]}" stroke="{acc}" stroke-width="2.5"/>'
-            f'<circle cx="{cx:.0f}" cy="{line_y}" r="23" fill="{acc}" opacity="0.14"/>'
+            f'<circle cx="{cx:.0f}" cy="{line_y}" r="30" fill="{t["node_fill"]}" stroke="{acc}" stroke-width="2"/>'
+            f'<circle cx="{cx:.0f}" cy="{line_y}" r="23" fill="{acc}" opacity="0.16"/>'
             f'{icon(ic, cx, line_y, 26, acc, 2.0)}'
-            f'<text x="{cx:.0f}" y="166" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="{acc}">{esc(period)}</text>'
+            f'<text x="{cx:.0f}" y="166" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="{acc_text(t, key)}">{esc(period)}</text>'
             f'<text x="{cx:.0f}" y="193" text-anchor="middle" font-size="16" font-weight="700" fill="{t["text"]}">{esc(title)}</text>'
             + "".join(
                 f'<text x="{cx:.0f}" y="{216 + k * 20}" text-anchor="middle" font-size="13" fill="{t["muted"]}">{esc(s)}</text>'
@@ -308,7 +512,7 @@ STACK_PANELS = [
     # (title, icon, accent key, x, y, w, h, items)
     ("Languages", "pen", "a1", 24, 24, 340, 150, ["Python", "Java", "C", "JavaScript"]),
     ("Backend", "server", "a2", 24, 190, 340, 150, ["FastAPI", "Spring", "Django", "Flask", "PyTorch"]),
-    ("Infra & Observability", "cloud", "a1", 380, 24, 796, 150,
+    ("Infra & Observability", "cloud", "a4", 380, 24, 796, 150,
      ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "AWS", "GCP", "Azure", "OCI",
       "Nginx", "Linux", "Prometheus", "Grafana"]),
     ("Data", "data", "a3", 380, 190, 340, 150,
@@ -332,16 +536,25 @@ def chip_layout(items, inner_w, chip_h=30, gap=8, font=13):
 
 def render_stack(t: dict) -> str:
     w, h = 1200, 364
-    defs = clip_round("sc", w, h)
-    parts = [card_bg(w, h, t, t["bg"])]
+    defs = clip_round("sc", w, h) + sky_defs("s", t)
+    rng = random.Random(11)
+    parts = [
+        card_bg(w, h, t),
+        f'<g clip-path="url(#sc)"><rect width="{w}" height="{h}" fill="url(#ssky)"/>'
+        f'<circle cx="140" cy="380" r="300" fill="url(#sfog)"/>'
+        f'<circle cx="1100" cy="40" r="280" fill="url(#shaze)"/>'
+        f'{star_dust(rng, 30, 12, 8, w - 12, h - 8, t)}</g>',
+        f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="{t["border"]}"/>',
+    ]
     pad = 20
     for title, ic, akey, px, py, pw, ph, items in STACK_PANELS:
         acc = t[akey]
         parts.append(
-            f'<rect x="{px}" y="{py}" width="{pw}" height="{ph}" rx="14" fill="{t["bg2"]}" stroke="{t["border"]}"/>'
-            f'<rect x="{px + pad}" y="{py + pad}" width="30" height="30" rx="8" fill="{acc}" opacity="0.14"/>'
+            f'<rect x="{px}" y="{py}" width="{pw}" height="{ph}" rx="14" fill="{t["panel"]}" fill-opacity="{t["panel_alpha"]}" '
+            f'stroke="{t["panel_stroke"]}" stroke-opacity="{t["panel_stroke_alpha"]}"/>'
+            f'<rect x="{px + pad}" y="{py + pad}" width="30" height="30" rx="8" fill="{acc}" opacity="0.18"/>'
             f'{icon(ic, px + pad + 15, py + pad + 15, 18, acc, 2.0)}'
-            f'<text x="{px + pad + 42}" y="{py + pad + 21}" font-size="16" font-weight="700" fill="{t["text"]}">{esc(title)}</text>'
+            f'<text x="{px + pad + 42}" y="{py + pad + 21}" class="serif-latin" font-size="17" font-weight="700" fill="{t["text"]}">{esc(title)}</text>'
             f'<text x="{px + pw - pad}" y="{py + pad + 21}" text-anchor="end" class="mono" font-size="12" fill="{t["muted"]}">{len(items):02d}</text>'
         )
         chips, used_h = chip_layout(items, pw - 2 * pad)
@@ -374,19 +587,25 @@ SECTIONS = {
 def render_section(key: str, t: dict) -> str:
     title, ic = SECTIONS[key]
     w, h = 1200, 64
-    defs = accent_gradient("sic", t) + (
-        f'<linearGradient id="sline" x1="0" y1="0" x2="1" y2="0">'
-        f'<stop offset="0" stop-color="{t["a1"]}" stop-opacity="0.9"/>'
+    defs = (
+        clip_round("shc", w, h)
+        + sky_defs("sh", t, "1", "0")
+        + accent_gradient("sic", t, "1", "1", "tile1", "tile2")
+        + f'<linearGradient id="sline" x1="0" y1="0" x2="1" y2="0">'
+        f'<stop offset="0" stop-color="{t["a3"]}" stop-opacity="0.95"/>'
         f'<stop offset="0.5" stop-color="{t["a2"]}" stop-opacity="0.45"/>'
         f'<stop offset="1" stop-color="{t["a2"]}" stop-opacity="0"/></linearGradient>'
     )
-    line_x = 80 + 0.85 * text_width(title, 24, bold=True) + 28
+    # Georgia bold runs wider than the sans estimate; err on the generous side.
+    line_x = 80 + text_width(title, 25, bold=True) * 1.05 + 18
     body = f"""{card_bg(w, h, t)}
+<g clip-path="url(#shc)"><rect width="{w}" height="{h}" fill="url(#shsky)"/></g>
+<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="{t["border"]}"/>
 <rect x="20" y="12" width="40" height="40" rx="11" fill="url(#sic)"/>
 {icon(ic, 40, 32, 22, t["on_accent"], 2.2)}
-<text x="80" y="41" font-size="24" font-weight="800" fill="{t["text"]}" letter-spacing="-0.3">{esc(title)}</text>
-<circle cx="{line_x:.0f}" cy="32" r="3.5" fill="{t["a1"]}"/>
-<path d="M{line_x + 12:.0f} 30.5 L1172 31.6 L1172 32.4 L{line_x + 12:.0f} 33.5 Z" fill="url(#sline)"/>"""
+<text x="80" y="41" class="serif-latin" font-size="25" font-weight="700" fill="{t["text"]}">{esc(title)}</text>
+{sparkle(line_x, 32, 6.5, t["a3"])}
+<path d="M{line_x + 14:.0f} 31.2 L1172 31.7 L1172 32.3 L{line_x + 14:.0f} 32.8 Z" fill="url(#sline)"/>"""
     return svg_doc(w, h, f"Section: {title}", body, defs)
 
 
@@ -397,18 +616,23 @@ def render_section(key: str, t: dict) -> str:
 
 def render_footer(t: dict) -> str:
     w, h = 1200, 120
-    defs = clip_round("fc", w, h) + accent_gradient("fw", t, "1", "0")
-    wave1 = "M0 78 C150 58 300 100 450 82 S750 56 900 78 S1100 96 1200 74 V120 H0 Z"
-    wave2 = "M0 92 C180 76 330 112 520 96 S820 74 980 94 S1130 104 1200 90 V120 H0 Z"
+    defs = clip_round("fc", w, h) + sky_defs("f", t, "1", "0") + accent_gradient("fw", t, "1", "0", "wave1", "wave2")
+    wave1 = "M0 70 C150 50 300 92 450 74 S750 48 900 70 S1100 88 1200 66 V120 H0 Z"
+    wave2 = "M0 84 C180 68 330 104 520 88 S820 66 980 86 S1130 96 1200 82 V120 H0 Z"
+    ribbon = "M0 102 C200 96 380 108 600 101 S980 95 1200 103 V120 H0 Z"
     body = f"""{card_bg(w, h, t)}
 <g clip-path="url(#fc)">
-  <path d="{wave1}" fill="url(#fw)" opacity="0.22">
+  <path d="{wave1}" fill="url(#fw)" opacity="{t["wave_alpha1"]}">
     <animateTransform attributeName="transform" type="translate" values="0 0;-18 2;0 0" dur="9s" repeatCount="indefinite"/>
   </path>
-  <path d="{wave2}" fill="url(#fw)" opacity="0.45"/>
+  <path d="{wave2}" fill="url(#fw)" opacity="{t["wave_alpha2"]}"/>
+  <circle cx="160" cy="120" r="180" fill="url(#ffog)"/>
+  <path d="{ribbon}" fill="{t["ribbon"]}"/>
 </g>
 <rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="{t["border"]}"/>
-<text x="600" y="50" text-anchor="middle" font-size="15" fill="{t["muted"]}" letter-spacing="0.5">Thanks for visiting <tspan fill="{t["a1"]}">·</tspan> <tspan fill="{t["text"]}" font-weight="600">bnbong.com</tspan></text>"""
+<text x="588" y="46" text-anchor="end" class="serif-latin" font-size="16" fill="{t["muted"]}" letter-spacing="0.5">Thanks for visiting</text>
+{sparkle(600, 41, 6, acc_text(t, "a3"))}
+<text x="612" y="46" class="serif-latin" font-size="16" font-weight="700" fill="{t["text"]}" letter-spacing="0.5">bnbong.com</text>"""
     return svg_doc(w, h, "Thanks for visiting - bnbong.com", body, defs)
 
 

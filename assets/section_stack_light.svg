@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Section: Tech Stack">
 <title>Section: Tech Stack</title>
-<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;}.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;}</style>
-<defs><linearGradient id="sic" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient><linearGradient id="sline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB" stop-opacity="0.9"/><stop offset="0.5" stop-color="#7C3AED" stop-opacity="0.45"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="1199" height="63" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;}.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;}.serif{font-family:'Noto Serif KR', 'AppleMyungjo', 'Apple Myungjo', 'Nanum Myeongjo', 'Batang', 'Apple SD Gothic Neo', Georgia, 'Times New Roman', serif;}.serif-latin{font-family:Georgia, 'Times New Roman', 'Noto Serif', 'Noto Serif KR', 'AppleMyungjo', serif;}</style>
+<defs><clipPath id="shc"><rect width="1200" height="64" rx="16"/></clipPath><linearGradient id="shsky" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF9F3"/><stop offset="0.55" stop-color="#F8F0F4"/><stop offset="1" stop-color="#EFE6F4"/></linearGradient><radialGradient id="shfog" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#63A9C9" stop-opacity="0.10"/><stop offset="1" stop-color="#63A9C9" stop-opacity="0"/></radialGradient><radialGradient id="shhaze" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#8C68AC" stop-opacity="0.12"/><stop offset="1" stop-color="#8C68AC" stop-opacity="0"/></radialGradient><linearGradient id="sic" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#272B61"/><stop offset="1" stop-color="#8C68AC"/></linearGradient><linearGradient id="sline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E0907A" stop-opacity="0.95"/><stop offset="0.5" stop-color="#8C68AC" stop-opacity="0.45"/><stop offset="1" stop-color="#8C68AC" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="1199" height="63" rx="16" fill="#FFF9F3" stroke="#E6DCEB"/>
+<g clip-path="url(#shc)"><rect width="1200" height="64" fill="url(#shsky)"/></g>
+<rect x="0.5" y="0.5" width="1199" height="63" rx="16" fill="none" stroke="#E6DCEB"/>
 <rect x="20" y="12" width="40" height="40" rx="11" fill="url(#sic)"/>
-<g transform="translate(29.0 21.0) scale(0.917)" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 4.5-9 4.5-9-4.5z"/><path d="M3 12l9 4.5 9-4.5"/><path d="M3 16.5l9 4.5 9-4.5"/></g>
-<text x="80" y="41" font-size="24" font-weight="800" fill="#0F172A" letter-spacing="-0.3">Tech Stack</text>
-<circle cx="230" cy="32" r="3.5" fill="#2563EB"/>
-<path d="M242 30.5 L1172 31.6 L1172 32.4 L242 33.5 Z" fill="url(#sline)"/>
+<g transform="translate(29.0 21.0) scale(0.917)" fill="none" stroke="#FFF9F3" stroke-width="2.20" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 4.5-9 4.5-9-4.5z"/><path d="M3 12l9 4.5 9-4.5"/><path d="M3 16.5l9 4.5 9-4.5"/></g>
+<text x="80" y="41" class="serif-latin" font-size="25" font-weight="700" fill="#272B61">Tech Stack</text>
+<path d="M254.4 25.5Q255.8 30.6 260.9 32.0Q255.8 33.4 254.4 38.5Q252.9 33.4 247.9 32.0Q252.9 30.6 254.4 25.5Z" fill="#E0907A"></path>
+<path d="M268 31.2 L1172 31.7 L1172 32.3 L268 32.8 Z" fill="url(#sline)"/>
 </svg>

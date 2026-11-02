@@ -256,11 +256,6 @@
 </picture>
 </p>
 
-<!-- Github Trophy -->
-<p align="center">
-  <img src="https://stats.hyo.dev/api/github-trophies?login=bnbong" alt="GitHub Profile Trophies">
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bnbong&theme=transparent" alt="Most commit language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bnbong&theme=transparent" alt="Repos per language"/>
